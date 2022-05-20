@@ -1,0 +1,2266 @@
+,id,pos,category,stereotype,lemma,level
+35,EN2454,n,om,no,homophobic slurs,conservative
+82,EN5498,n,re,no,m o f f i a,conservative
+87,EN1895,n,ps,yes,changeling,conservative
+122,EN5044,a,ddp,yes,incapable,inclusive
+142,EN337,n,an,no,folderol,conservative
+158,EN5019,n,cds,no,lying by omission,inclusive
+171,EN746,n,rci,yes,birin,conservative
+232,EN2041,n,re,no,swindler,inclusive
+249,EN1916,n,ddp,yes,half-wit,conservative
+267,EN732,n,pa,yes,savage,conservative
+274,EN746,n,cds,no,birin,conservative
+278,EN1104,n,cds,no,rapscallion,inclusive
+281,EN5485,n,cds,no,maffias,conservative
+284,EN1321,n,ddp,yes,muthafucker,conservative
+324,EN5524,n,cds,no,m.o.f.f.i.a.,inclusive
+380,EN858,n,cds,no,sucker,conservative
+395,EN5510,n,cds,no,sicilian mobsters,conservative
+397,EN741,n,dmc,yes,barbarously,conservative
+417,EN1706,n,dmc,yes,vagabond,conservative
+418,EN956,n,qas,no,lie,conservative
+421,EN5042,n,cds,no,behavioral signals of lying,inclusive
+427,EN4355,n,cds,no,theif,inclusive
+437,EN1731,n,cds,no,villainesses,conservative
+457,EN1101,n,re,no,rascal,inclusive
+483,EN960,n,cds,no,untruth,inclusive
+495,EN1103,n,re,no,scallywag,conservative
+498,EN860,n,asf,no,patsy,conservative
+519,EN5043,n,cds,no,dissembled,inclusive
+527,EN1122,n,cds,no,outlawry,inclusive
+528,EN1103,n,dmc,yes,scallywag,inclusive
+550,EN4428,n,pr,no,john,inclusive
+552,EN4428,n,cds,no,john,inclusive
+555,EN7705,n,re,no,terraist,conservative
+577,EN729,n,pa,yes,barbarian,conservative
+617,EN3462,n,re,no,delict,inclusive
+650,EN743,n,ddp,yes,barbarians,conservative
+652,EN4691,n,cds,no,superciliousness,conservative
+663,EN5038,n,dmc,yes,dissembles,inclusive
+666,EN523,n,ps,yes,putz,conservative
+668,EN5081,n,cds,no,money-lending,conservative
+677,EN607,n,svp,no,niggardliness,conservative
+680,EN1706,n,an,no,vagabond,conservative
+683,EN1410,n,dmc,yes,bungler,conservative
+687,EN1404,n,cds,no,conformists,conservative
+690,EN5463,n,cds,no,police man,conservative
+732,EN744,n,qas,no,barbaric,conservative
+740,EN5515,n,re,no,cosanostra,inclusive
+749,EN5263,n,cds,no,abactor,inclusive
+750,EN858,n,asf,no,sucker,conservative
+760,EN1893,n,asm,no,imbecile,inclusive
+776,EN4615,n,cds,no,masses,inclusive
+779,EN5457,n,cds,no,zaptiah,conservative
+780,EN337,n,ddp,yes,folderol,conservative
+792,EN3771,n,cds,no,brothel-keeper,conservative
+800,EN1916,n,ps,yes,half-wit,conservative
+825,EN5073,n,cds,no,usurer,conservative
+833,EN5068,n,cds,no,tai ee long,inclusive
+836,EN960,n,dmc,yes,untruth,inclusive
+841,EN2470,n,om,no,ghey,inclusive
+844,EN2041,n,dmc,yes,swindler,conservative
+848,EN1042,n,dmc,yes,fabricator,conservative
+859,EN1753,n,dmc,yes,villainous,conservative
+867,EN1747,n,cds,no,movie villains,conservative
+879,EN4449,n,pr,no,persons involved in the sex trade,inclusive
+881,EN1927,n,ps,yes,dunderheads,conservative
+883,EN1415,n,dmc,yes,stumbler,conservative
+897,EN515,n,ddp,yes,muggins,conservative
+901,EN867,n,qas,no,dullard,conservative
+902,EN1929,n,an,no,beyotch,conservative
+905,EN2036,n,dmc,yes,chiseller,conservative
+908,EN1101,n,cds,no,rascal,inclusive
+910,EN523,n,an,no,putz,conservative
+917,EN533,n,an,no,fuckhead,conservative
+920,EN745,n,pa,yes,peasant,inclusive
+921,EN733,n,ps,yes,barbarousness,conservative
+925,EN524,n,ddp,yes,simpleton,conservative
+942,EN516,n,or,no,idiot,conservative
+972,EN1909,n,ddp,yes,moron,inclusive
+975,EN882,n,ddp,yes,dumbbell,conservative
+976,EN524,n,cds,no,simpleton,conservative
+985,EN517,n,asf,no,saphead,conservative
+991,EN522,n,asm,no,chump,conservative
+1000,EN7996,n,dmc,yes,recreant,conservative
+1006,EN879,n,ddp,yes,dope,conservative
+1007,EN5019,n,dmc,yes,lying by omission,inclusive
+1009,EN5517,n,re,no,mafiosi,conservative
+1012,EN362,a,ddp,yes,unlettered,inclusive
+1016,EN1893,n,cds,no,imbecile,inclusive
+1022,EN5498,n,re,no,m o f f i a,inclusive
+1025,EN862,n,an,no,mug,conservative
+1026,EN3371,n,svp,no,gourmandise,inclusive
+1030,EN5510,n,re,no,sicilian mobsters,inclusive
+1032,EN498,n,ddp,yes,foolishness,conservative
+1034,EN2543,n,ddp,yes,katerfelts,conservative
+1040,EN1704,n,an,no,tramp,conservative
+1044,EN3462,n,cds,no,delict,inclusive
+1059,EN4773,n,cds,no,imp,conservative
+1084,EN523,n,asf,no,putz,conservative
+1090,EN1315,n,ddp,yes,mother-fucker,conservative
+1105,EN1262,n,dmc,yes,rat,conservative
+1108,EN5011,n,dmc,yes,lazybones,conservative
+1119,EN6917,a,svp,no,pretentious,conservative
+1128,EN3808,n,cds,no,fascist,conservative
+1140,EN1895,n,asm,no,changeling,inclusive
+1154,EN5024,n,qas,no,lying in trade,conservative
+1215,EN863,n,asf,no,soft touch,conservative
+1225,EN7574,n,pr,no,lampyris obscurella,inclusive
+1231,EN1101,n,an,no,rascal,conservative
+1257,EN858,n,ps,yes,sucker,conservative
+1258,EN1122,n,dmc,yes,outlawry,inclusive
+1268,EN2465,n,om,no,homosexual,inclusive
+1277,EN2732,n,cds,no,cross,inclusive
+1287,EN2776,n,cds,no,crossbreed,inclusive
+1293,EN863,n,cds,no,soft touch,conservative
+1304,EN578,n,svp,no,rapacity,conservative
+1313,EN7470,a,ps,yes,jewish,inclusive
+1316,EN523,n,or,no,putz,conservative
+1325,EN527,n,or,no,bonehead,conservative
+1334,EN6915,n,cds,no,handjob,conservative
+1354,EN1134,n,ddp,yes,tattler,conservative
+1367,EN861,n,asf,no,mark,conservative
+1373,EN516,n,ddp,yes,idiot,inclusive
+1376,EN891,n,an,no,trollop,conservative
+1380,EN334,n,an,no,trumpery,conservative
+1381,EN1753,n,an,no,villainous,conservative
+1387,EN5341,n,svp,no,slacking,conservative
+1394,EN527,n,an,no,bonehead,conservative
+1395,EN673,n,asm,no,bolox,inclusive
+1402,EN5714,a,dmc,yes,villainous,conservative
+1422,EN502,a,an,no,headless,conservative
+1424,EN1926,n,ps,yes,coo yon,conservative
+1427,EN2043,n,dmc,yes,fraudster,conservative
+1440,EN1103,n,re,no,scallywag,inclusive
+1442,EN3741,n,cds,no,procurer,inclusive
+1443,EN4774,n,cds,no,scamp,inclusive
+1445,EN3381,n,svp,no,gourmand,conservative
+1469,EN1235,n,an,no,pig,inclusive
+1470,EN354,n,cds,no,zealotry,inclusive
+1495,EN1905,n,cds,no,idiocies,inclusive
+1508,EN858,n,asm,no,sucker,conservative
+1515,EN517,n,an,no,saphead,conservative
+1518,EN620,n,svp,no,mean,inclusive
+1520,EN1705,n,svp,no,bum,conservative
+1530,EN1915,n,ddp,yes,th. metzger,inclusive
+1539,EN1926,n,ddp,yes,coo yon,conservative
+1550,EN1705,n,om,no,bum,inclusive
+1551,EN3396,n,svp,no,gourmandizing,inclusive
+1556,EN2680,n,asm,no,wankily,conservative
+1557,EN498,n,asf,no,foolishness,conservative
+1559,EN2193,n,asm,no,pecker,inclusive
+1569,EN723,n,cds,no,brigand,inclusive
+1580,EN743,n,dmc,yes,barbarians,conservative
+1583,EN513,n,asm,no,fool,inclusive
+1591,EN618,n,is,yes,tightwaddery,conservative
+1594,EN338,n,asf,no,rubbish,conservative
+1595,EN1410,n,ddp,yes,bungler,conservative
+1602,EN1934,n,pr,no,bitch,conservative
+1616,EN1927,n,cds,no,dunderheads,inclusive
+1622,EN1100,n,re,no,varlet,conservative
+1625,EN1903,n,cds,no,galoot,inclusive
+1626,EN1909,n,ps,yes,moron,conservative
+1639,EN3688,n,dmc,yes,wretch,inclusive
+1640,EN1903,n,asm,no,galoot,inclusive
+1646,EN4772,n,re,no,monkey,inclusive
+1650,EN723,n,cds,no,brigand,conservative
+1669,EN4415,n,pr,no,mannii,conservative
+1672,EN2575,n,cds,no,municipal composting,conservative
+1686,EN1888,n,cds,no,coward,conservative
+1692,EN1740,n,re,no,heavies,conservative
+1696,EN1752,n,dmc,yes,villians,conservative
+1701,EN925,n,an,no,street walkers,conservative
+1703,EN733,n,dmc,yes,barbarousness,conservative
+1716,EN1062,n,cds,no,bigget,conservative
+1731,EN2053,n,qas,no,scum,conservative
+1745,EN5482,n,re,no,maffia,conservative
+1748,EN530,n,ddp,yes,dunderhead,conservative
+1753,EN738,n,dmc,yes,goth,conservative
+1769,EN1228,n,dmc,yes,blackguard,conservative
+1777,EN663,n,cds,no,churl,conservative
+1794,EN1057,a,cds,no,dumb,conservative
+1795,EN1074,n,cds,no,gang,inclusive
+1810,EN860,n,an,no,patsy,conservative
+1815,EN741,n,cds,no,barbarously,conservative
+1822,EN2456,n,om,no,faggotry,conservative
+1831,EN1724,n,dmc,yes,do-nothing,conservative
+1832,EN6637,v,qas,no,bedevil,conservative
+1834,EN1416,n,ddp,yes,botcher,conservative
+1844,EN10,n,svp,no,laziness,inclusive
+1850,EN663,n,svp,no,churl,conservative
+1864,EN513,n,ddp,yes,fool,conservative
+1867,EN1909,n,asm,no,moron,inclusive
+1870,EN5750,n,cds,no,pride,conservative
+1876,EN538,n,ddp,yes,muttonhead,conservative
+1884,EN1389,n,qas,no,foul-up,inclusive
+1889,EN746,n,dmc,yes,birin,conservative
+1891,EN1386,n,qas,no,flub,inclusive
+1903,EN2044,n,cds,no,grifter,conservative
+1905,EN2474,n,or,no,homophilia,conservative
+1907,EN5043,n,dmc,yes,dissembled,inclusive
+1912,EN389,n,an,no,tree of life animalia,inclusive
+1915,EN2475,n,om,no,league for civil education,inclusive
+1924,EN515,n,asm,no,muggins,conservative
+1943,EN2542,n,ddp,yes,charlantry,conservative
+1945,EN513,n,ddp,yes,fool,inclusive
+1946,EN2768,n,cds,no,crossbred,inclusive
+1954,EN1120,n,re,no,outlawed,inclusive
+1970,EN1900,n,ddp,yes,dunder headed,conservative
+1971,EN2336,n,asm,no,shag,conservative
+1972,EN1728,n,an,no,rabble,conservative
+1977,EN1310,n,ddp,yes,mf'er,conservative
+1981,EN2861,n,cds,no,culls,conservative
+1982,EN608,n,dmc,yes,meanness,inclusive
+1983,EN1262,n,pr,no,rat,inclusive
+1987,EN1064,n,svp,no,bigot,conservative
+1992,EN513,n,an,no,fool,conservative
+1994,EN1107,n,an,no,knave,conservative
+1996,EN5509,n,re,no,moffia,inclusive
+2003,EN3412,n,cds,no,delinquent,conservative
+2015,EN1925,n,ddp,yes,coo-yon,inclusive
+2027,EN739,n,qas,no,barbarous,conservative
+2034,EN1069,n,cds,no,shot caller,inclusive
+2035,EN2757,n,cds,no,crop selection,inclusive
+2038,EN7155,a,cds,no,crossbred,inclusive
+2042,EN2472,n,om,no,homophilic,inclusive
+2044,EN1678,n,svp,no,arrogance,conservative
+2051,EN686,n,asm,no,bollox,inclusive
+2059,EN1866,n,is,yes,castaway,inclusive
+2061,EN4773,n,dmc,yes,imp,inclusive
+2064,EN609,n,svp,no,stinginess,conservative
+2067,EN730,n,qas,no,barberian,conservative
+2069,EN1902,n,ddp,yes,cretin,inclusive
+2082,EN2043,n,cds,no,fraudster,conservative
+2084,EN740,n,cds,no,churls,conservative
+2088,EN1925,n,ps,yes,coo-yon,conservative
+2092,EN3767,n,cds,no,sextraders,conservative
+2095,EN1108,n,re,no,scalawag,inclusive
+2101,EN4376,n,cds,no,larceny-theft,inclusive
+2107,EN1106,n,dmc,yes,roguery,conservative
+2113,EN3191,n,dmc,yes,phony,conservative
+2126,EN745,n,dmc,yes,peasant,conservative
+2138,EN1734,n,an,no,villainess,conservative
+2143,EN6514,n,cds,no,lucrum cessans,conservative
+2144,EN4371,n,cds,no,filched,inclusive
+2150,EN610,n,svp,no,penuriousness,conservative
+2152,EN877,n,cds,no,dummy,inclusive
+2159,EN2574,n,cds,no,properties of msw,inclusive
+2163,EN386,n,ddp,yes,infaunal,inclusive
+2164,EN2470,n,om,no,ghey,conservative
+2168,EN338,n,an,no,rubbish,conservative
+2169,EN1117,n,cds,no,malefactor,conservative
+2171,EN2465,n,or,no,homosexual,conservative
+2188,EN1927,n,ddp,yes,dunderheads,conservative
+2196,EN2857,n,cds,no,reject,conservative
+2197,EN364,a,ddp,yes,illiterate,conservative
+2199,EN335,n,ddp,yes,tripe,conservative
+2202,EN5508,n,re,no,badda bing,inclusive
+2203,EN4442,n,pr,no,kerb crawling,conservative
+2218,EN3892,n,asm,no,pickle,inclusive
+2223,EN3384,n,svp,no,gormandism,conservative
+2227,EN1385,n,dmc,yes,fuckup,conservative
+2234,EN705,a,svp,no,grasping,inclusive
+2235,EN1380,n,dmc,yes,profligate,inclusive
+2240,EN748,n,rci,yes,tike,conservative
+2251,EN755,n,ddp,yes,savagery,conservative
+2254,EN5030,n,cds,no,prevaricates,conservative
+2262,EN1728,n,cds,no,rabble,inclusive
+2267,EN1895,n,ddp,yes,changeling,conservative
+2271,EN1908,n,asm,no,dunderheaded,inclusive
+2275,EN708,a,svp,no,moneygrubbing,conservative
+2276,EN4368,n,cds,no,theft,inclusive
+2278,EN1414,n,dmc,yes,butcher,conservative
+2279,EN1436,n,ddp,yes,viciousness,conservative
+2281,EN2038,n,re,no,chiseler,inclusive
+2282,EN2465,n,om,no,homosexual,conservative
+2287,EN524,n,cds,no,simpleton,inclusive
+2298,EN862,n,ps,yes,mug,conservative
+2301,EN1707,n,ps,yes,derelict,inclusive
+2312,EN2853,n,cds,no,cull,conservative
+2318,EN1740,n,dmc,yes,heavies,conservative
+2323,EN1892,n,om,no,namby-pamby,conservative
+2328,EN1925,n,ddp,yes,coo-yon,conservative
+2332,EN2743,n,cds,no,crossings,inclusive
+2336,EN1728,n,cds,no,rabble,conservative
+2337,EN1062,n,dmc,yes,bigget,conservative
+2340,EN5273,n,cds,no,burglar,inclusive
+2341,EN4242,n,dmc,yes,no-account,conservative
+2343,EN1741,n,dmc,yes,scoundrel,conservative
+2347,EN4351,n,re,no,stealing,inclusive
+2348,EN1107,n,cds,no,knave,conservative
+2363,EN5802,n,re,no,robber,conservative
+2364,EN7967,n,om,no,female illusionist,inclusive
+2373,EN1875,n,is,yes,paraiyars,inclusive
+2387,EN5508,n,cds,no,badda bing,conservative
+2388,EN1702,n,dmc,yes,rotter,conservative
+2389,EN747,n,pa,yes,the karls,conservative
+2390,EN3318,n,cds,no,can,inclusive
+2393,EN743,n,ps,yes,barbarians,conservative
+2394,EN1108,n,re,no,scalawag,conservative
+2396,EN7712,n,re,no,terroism,inclusive
+2399,EN5090,n,cds,no,money lender,conservative
+2403,EN606,n,svp,no,closefistedness,conservative
+2412,EN2455,n,om,no,faggot,inclusive
+2416,EN3688,n,is,yes,wretch,inclusive
+2424,EN613,n,an,no,skinflint,conservative
+2431,EN5628,n,cds,no,yokel,conservative
+2441,EN497,n,ddp,yes,folly,inclusive
+2444,EN870,n,cds,no,stupid,conservative
+2445,EN5092,n,cds,no,money-lender,inclusive
+2447,EN1262,n,dmc,yes,rat,inclusive
+2455,EN1883,n,om,no,pansy,conservative
+2472,EN951,n,pr,no,rent boys,conservative
+2480,EN1898,n,asf,no,idiocity,conservative
+2481,EN607,n,an,no,niggardliness,conservative
+2485,EN1410,n,cds,no,bungler,conservative
+2486,EN1884,n,an,no,sissy,conservative
+2494,EN532,n,asf,no,blockhead,conservative
+2495,EN1922,n,asf,no,idiotes,conservative
+2498,EN404,n,ddp,yes,macrofauna,inclusive
+2500,EN857,n,cds,no,fall guy,conservative
+2505,EN188,n,cds,no,self-love,conservative
+2509,EN663,n,pa,yes,churl,conservative
+2510,EN1228,n,cds,no,blackguard,conservative
+2516,EN2037,n,cds,no,gouger,inclusive
+2524,EN2991,n,asm,no,nitwit,conservative
+2527,EN2991,n,asf,no,nitwit,conservative
+2528,EN2042,n,dmc,yes,scammer,conservative
+2530,EN737,n,dmc,yes,barbarically,conservative
+2531,EN1791,n,cds,no,hole,inclusive
+2534,EN755,n,ddp,yes,savagery,inclusive
+2540,EN5042,n,dmc,yes,behavioral signals of lying,inclusive
+2543,EN1025,n,cds,no,fib,conservative
+2544,EN1921,n,ps,yes,lout,conservative
+2546,EN5520,n,cds,no,m. a. f. i. a.,inclusive
+2550,EN867,n,cds,no,dullard,conservative
+2554,EN857,n,asf,no,fall guy,conservative
+2563,EN861,n,cds,no,mark,conservative
+2568,EN7512,a,cds,no,ordinary,inclusive
+2569,EN5518,n,re,no,m.o.f.i.a.,inclusive
+2574,EN5026,n,qas,no,prevaricate,conservative
+2583,EN7529,a,dmc,yes,profligate,conservative
+2586,EN737,n,cds,no,barbarically,conservative
+2594,EN533,n,ddp,yes,fuckhead,conservative
+2595,EN2479,n,or,no,homophile,conservative
+2597,EN3397,n,svp,no,gormandises,inclusive
+2600,EN4700,n,cds,no,clown,conservative
+2610,EN5461,n,cds,no,police officers,conservative
+2618,EN7142,a,re,no,violent,inclusive
+2619,EN1226,n,an,no,bounder,conservative
+2620,EN521,n,cds,no,simple,inclusive
+2623,EN1101,n,re,no,rascal,conservative
+2628,EN3026,n,cds,no,criminals,inclusive
+2633,EN1927,n,asf,no,dunderheads,conservative
+2634,EN5024,n,dmc,yes,lying in trade,inclusive
+2649,EN522,n,ddp,yes,chump,conservative
+2664,EN517,n,ddp,yes,saphead,conservative
+2665,EN5957,n,asm,no,stupidities,conservative
+2667,EN516,n,ddp,yes,idiot,conservative
+2671,EN915,n,pr,no,slattern,conservative
+2674,EN6668,v,asm,no,goldbrick,conservative
+2677,EN6993,a,dmc,yes,fake,inclusive
+2681,EN663,n,is,yes,churl,conservative
+2686,EN1106,n,cds,no,roguery,conservative
+2689,EN510,n,or,no,twat,conservative
+2690,EN1702,n,dmc,yes,rotter,inclusive
+2693,EN871,n,ddp,yes,pudden-head,conservative
+2696,EN4765,a,dmc,yes,parochial,conservative
+2699,EN535,n,asf,no,loggerhead,conservative
+2705,EN613,n,svp,no,skinflint,inclusive
+2707,EN4055,n,dmc,yes,gangster,inclusive
+2712,EN619,n,svp,no,miser,inclusive
+2714,EN738,n,ps,yes,goth,conservative
+2715,EN1106,n,an,no,roguery,conservative
+2716,EN1403,n,cds,no,conformist,conservative
+2718,EN741,n,ps,yes,barbarously,conservative
+2724,EN2035,n,dmc,yes,trafficker,conservative
+2729,EN496,n,asm,no,stupidity,conservative
+2744,EN862,n,an,no,mug,inclusive
+2745,EN722,n,cds,no,bandit,inclusive
+2753,EN1917,n,asm,no,moronism,inclusive
+2754,EN1771,n,cds,no,scribble,inclusive
+2756,EN746,n,pa,yes,birin,conservative
+2765,EN5952,n,asm,no,stupidly,conservative
+2772,EN861,n,ps,yes,mark,conservative
+2773,EN3842,n,or,no,saunf,inclusive
+2775,EN606,n,is,yes,closefistedness,conservative
+2781,EN676,n,qas,no,bollix,inclusive
+2790,EN1412,n,ddp,yes,fumbler,conservative
+2798,EN859,n,asm,no,gull,conservative
+2812,EN4461,n,pr,no,whore-mongering,conservative
+2821,EN620,n,svp,no,mean,conservative
+2838,EN5339,n,cds,no,slacked,conservative
+2841,EN3909,n,dmc,yes,jokesters,inclusive
+2842,EN882,n,asm,no,dumbbell,conservative
+2843,EN497,n,asm,no,folly,conservative
+2844,EN617,n,svp,no,misers,inclusive
+2846,EN6856,n,is,yes,mendicant,inclusive
+2854,EN3365,n,svp,no,gormandise,conservative
+2856,EN4465,n,pr,no,kerb crawlers,inclusive
+2859,EN7460,n,cds,no,second-rater,conservative
+2863,EN4954,n,pa,yes,jesuit,inclusive
+2865,EN2476,n,om,no,homo,conservative
+2866,EN746,n,ps,yes,birin,conservative
+2876,EN1734,n,dmc,yes,villainess,conservative
+2878,EN5518,n,re,no,m.o.f.i.a.,conservative
+2880,EN4436,n,pr,no,meretricious,conservative
+2884,EN1906,n,asm,no,eejit,inclusive
+2885,EN3077,n,re,no,criminous,inclusive
+2886,EN522,n,cds,no,chump,inclusive
+2895,EN1917,n,asf,no,moronism,conservative
+2901,EN513,n,cds,no,fool,conservative
+2905,EN857,n,ps,yes,fall guy,conservative
+2906,EN1909,n,cds,no,moron,inclusive
+2908,EN1926,n,cds,no,coo yon,inclusive
+2910,EN6855,n,is,yes,beggar,inclusive
+2911,EN332,n,ddp,yes,codswallop,conservative
+2913,EN744,n,ddp,yes,barbaric,conservative
+2918,EN948,n,pr,no,streetwalker,conservative
+2926,EN523,n,cds,no,putz,inclusive
+2933,EN521,n,cds,no,simple,conservative
+2935,EN336,n,asf,no,applesauce,conservative
+2936,EN1095,n,cds,no,moobster,inclusive
+2937,EN3393,n,svp,no,gormandised,inclusive
+2939,EN2472,n,or,no,homophilic,conservative
+2942,EN1028,n,cds,no,taradiddle,conservative
+2944,EN3774,n,cds,no,pimpet,inclusive
+2945,EN6516,n,cds,no,usurious,conservative
+2950,EN1918,n,ddp,yes,retard,conservative
+2951,EN1705,n,qas,no,bum,conservative
+2954,EN5610,n,qas,no,parasite,conservative
+2955,EN1125,n,dmc,yes,criminal,inclusive
+2960,EN1908,n,ps,yes,dunderheaded,conservative
+2962,EN6035,n,cds,no,shrimp,conservative
+2967,EN1902,n,asm,no,cretin,inclusive
+2968,EN5515,n,re,no,cosanostra,conservative
+2972,EN7706,n,re,no,terrifies,conservative
+2975,EN3688,n,cds,no,wretch,conservative
+2976,EN1746,n,re,no,miscreants,conservative
+2977,EN878,n,asf,no,booby,conservative
+2978,EN3460,n,dmc,yes,delicts,inclusive
+2983,EN1902,n,ddp,yes,cretin,conservative
+2997,EN4690,n,cds,no,hybris,inclusive
+2998,EN1649,n,cds,no,egotistic,conservative
+3004,EN2036,n,cds,no,chiseller,conservative
+3007,EN537,n,or,no,numskull,conservative
+3008,EN1708,n,dmc,yes,skunk,inclusive
+3021,EN6791,v,cds,no,moralise,conservative
+3029,EN2785,n,cds,no,pest resistance,inclusive
+3033,EN861,n,an,no,mark,conservative
+3035,EN5034,n,qas,no,dissemble,conservative
+3040,EN1917,n,ps,yes,moronism,conservative
+3051,EN605,n,svp,no,costiveness,conservative
+3059,EN495,n,ddp,yes,betise,conservative
+3062,EN612,n,svp,no,miserliness,conservative
+3066,EN5339,n,dmc,yes,slacked,conservative
+3067,EN435,n,re,no,calumny,inclusive
+3068,EN706,a,svp,no,cash-hungry,inclusive
+3071,EN4404,n,pr,no,kerb-crawler,conservative
+3080,EN607,n,is,yes,niggardliness,conservative
+3085,EN1230,n,cds,no,heel,conservative
+3094,EN339,n,an,no,trash,conservative
+3099,EN2038,n,cds,no,chiseler,conservative
+3108,EN882,n,asf,no,dumbbell,conservative
+3111,EN1137,n,cds,no,talebearer,conservative
+3114,EN5515,n,cds,no,cosanostra,inclusive
+3118,EN1409,n,cds,no,bumbler,conservative
+3122,EN4244,n,svp,no,good-for-naught,conservative
+3125,EN956,n,cds,no,lie,inclusive
+3129,EN1233,n,an,no,slovenly person,conservative
+3138,EN5290,n,dmc,yes,pilferer,conservative
+3145,EN1103,n,an,no,scallywag,conservative
+3152,EN1412,n,cds,no,fumbler,conservative
+3156,EN1414,n,ddp,yes,butcher,conservative
+3160,EN5497,n,re,no,m. o. f. f. i. a.,conservative
+3163,EN1731,n,re,no,villainesses,conservative
+3165,EN3472,a,qas,no,insane,conservative
+3167,EN5626,n,dmc,yes,hayseed,conservative
+3174,EN4366,n,cds,no,thefts,inclusive
+3176,EN4862,n,is,yes,penurious,inclusive
+3177,EN521,n,ddp,yes,simple,conservative
+3189,EN535,n,an,no,loggerhead,conservative
+3198,EN330,a,svp,no,aggressive,inclusive
+3201,EN3890,n,qas,no,mess,inclusive
+3202,EN739,n,cds,no,barbarous,conservative
+3203,EN5038,n,qas,no,dissembles,conservative
+3204,EN2685,n,asm,no,twit,conservative
+3212,EN1903,n,ddp,yes,galoot,inclusive
+3216,EN1746,n,cds,no,miscreants,conservative
+3221,EN1900,n,asm,no,dunder headed,inclusive
+3223,EN1933,n,an,no,cunt,conservative
+3228,EN1394,n,cds,no,bloomer,inclusive
+3234,EN1707,n,dmc,yes,derelict,conservative
+3235,EN4909,n,an,no,incompetent,conservative
+3239,EN748,n,dmc,yes,tike,conservative
+3245,EN1900,n,ps,yes,dunder headed,conservative
+3248,EN396,n,ddp,yes,brute,conservative
+3249,EN4215,n,qas,no,snoop,inclusive
+3253,EN521,n,asm,no,simple,conservative
+3254,EN3734,n,cds,no,flesh mongers,conservative
+3255,EN513,n,asf,no,fool,conservative
+3258,EN878,n,asm,no,booby,conservative
+3260,EN5083,n,cds,no,loan sharking,conservative
+3263,EN2051,n,qas,no,ragtag,conservative
+3270,EN1903,n,asf,no,galoot,conservative
+3271,EN1753,n,is,yes,villainous,conservative
+3272,EN5948,n,asm,no,lower intelligence,conservative
+3273,EN524,n,or,no,simpleton,conservative
+3275,EN1913,n,ddp,yes,stupidhead,inclusive
+3276,EN1381,n,qas,no,bloopers,inclusive
+3282,EN663,n,qas,no,churl,conservative
+3288,EN748,n,ps,yes,tike,conservative
+3290,EN5288,n,dmc,yes,snitcher,conservative
+3297,EN2654,n,asm,no,gullible,conservative
+3299,EN1913,n,asm,no,stupidhead,inclusive
+3309,EN5030,n,dmc,yes,prevaricates,inclusive
+3310,EN2824,n,asf,no,c word,conservative
+3319,EN7501,a,qas,no,middle-class,inclusive
+3320,EN4401,n,pr,no,w-h-word,inclusive
+3321,EN4373,n,cds,no,theives,inclusive
+3324,EN511,n,an,no,jackass,conservative
+3346,EN4681,n,cds,no,overweeningly,conservative
+3349,EN1917,n,cds,no,moronism,inclusive
+3353,EN3062,n,re,no,lawlessly,inclusive
+3360,EN3066,n,re,no,crimination,inclusive
+3369,EN1477,n,an,no,🐄,inclusive
+3371,EN610,n,svp,no,penuriousness,inclusive
+3374,EN1750,n,an,no,villan,conservative
+3376,EN1922,n,cds,no,idiotes,inclusive
+3381,EN4409,n,pr,no,prostitude,conservative
+3382,EN1923,n,asf,no,idiotic,conservative
+3385,EN1388,n,qas,no,blunder,inclusive
+3388,EN1871,n,dmc,yes,outcast,inclusive
+3391,EN3370,n,svp,no,gormandized,inclusive
+3396,EN516,n,ps,yes,idiot,conservative
+3398,EN1104,n,dmc,yes,rapscallion,conservative
+3403,EN4767,a,svp,no,penurious,conservative
+3406,EN3394,n,svp,no,gormandising,inclusive
+3408,EN3686,a,ps,yes,black,inclusive
+3414,EN4735,n,asm,no,bird,inclusive
+3418,EN735,n,dmc,yes,tyke,conservative
+3424,EN5069,n,cds,no,uniform small loan law,conservative
+3425,EN5079,n,cds,no,shylocking,inclusive
+3426,EN531,n,ddp,yes,knucklehead,conservative
+3433,EN745,n,ps,yes,peasant,conservative
+3440,EN1898,n,cds,no,idiocity,inclusive
+3442,EN1923,n,asm,no,idiotic,inclusive
+3448,EN4353,n,re,no,larseny,inclusive
+3450,EN616,n,is,yes,niggard,conservative
+3451,EN316,n,qas,no,odds and ends,inclusive
+3452,EN3675,n,dmc,yes,evil,conservative
+3454,EN497,n,an,no,folly,conservative
+3459,EN1102,n,an,no,ne'er-do-wells,conservative
+3462,EN1382,n,cds,no,gag reel,inclusive
+3464,EN1684,n,cds,no,vaingloriousness,conservative
+3465,EN1896,n,cds,no,idioticness,inclusive
+3467,EN516,n,cds,no,idiot,conservative
+3470,EN1055,a,ddp,yes,stupid,conservative
+3475,EN1387,n,qas,no,blooper,inclusive
+3476,EN5026,n,cds,no,prevaricate,conservative
+3477,EN7709,n,re,no,terrists,inclusive
+3478,EN5497,n,re,no,m. o. f. f. i. a.,inclusive
+3479,EN943,n,an,no,man-whore,conservative
+3480,EN5022,n,cds,no,prevaricating,inclusive
+3484,EN5677,a,dmc,yes,savage,conservative
+3486,EN528,n,or,no,hammerhead,conservative
+3487,EN7699,n,re,no,terrist,conservative
+3489,EN2987,n,ps,yes,lump,conservative
+3491,EN665,n,qas,no,orchis,inclusive
+3493,EN5011,n,cds,no,lazybones,conservative
+3496,EN6663,v,asm,no,rook,conservative
+3503,EN4459,n,pr,no,kumpangs,conservative
+3505,EN5465,n,cds,no,police men,conservative
+3511,EN287,n,svp,no,indolence,inclusive
+3515,EN756,n,an,no,brutality,inclusive
+3516,EN1456,n,an,no,cows,inclusive
+3526,EN734,n,dmc,yes,boor,conservative
+3527,EN6851,n,cds,no,tattle,inclusive
+3529,EN7895,n,re,no,%e2%80%99ndrangheta,inclusive
+3530,EN3675,n,dmc,yes,evil,inclusive
+3544,EN1707,n,dmc,yes,derelict,inclusive
+3546,EN892,n,pr,no,hooker,conservative
+3547,EN4769,a,is,yes,stingy,inclusive
+3549,EN320,n,qas,no,mishmash,inclusive
+3550,EN2039,n,re,no,frauder,inclusive
+3553,EN1707,n,qas,no,derelict,conservative
+3557,EN1473,n,pr,no,kine,inclusive
+3563,EN396,n,ddp,yes,brute,inclusive
+3565,EN1906,n,cds,no,eejit,inclusive
+3572,EN678,n,asm,no,testicals,inclusive
+3573,EN2793,n,cds,no,cub,conservative
+3577,EN662,n,is,yes,tightwad,conservative
+3578,EN1297,n,cds,no,shit,conservative
+3585,EN4689,n,cds,no,Ὕβρις,conservative
+3591,EN4686,n,cds,no,hubris,inclusive
+3595,EN4430,n,pr,no,hookers,inclusive
+3599,EN1108,n,dmc,yes,scalawag,conservative
+3603,EN5945,n,asm,no,fatuousness,conservative
+3606,EN527,n,asf,no,bonehead,conservative
+3608,EN3757,n,cds,no,mac,inclusive
+3612,EN5030,n,qas,no,prevaricates,conservative
+3618,EN6565,n,an,no,slip of the tongue,inclusive
+3620,EN742,n,rci,yes,ceorle,conservative
+3622,EN2730,n,cds,no,crop enhancement,inclusive
+3625,EN1298,n,cds,no,bastard,conservative
+3632,EN1704,n,dmc,yes,tramp,inclusive
+3634,EN2290,n,cds,no,multitude,inclusive
+3638,EN532,n,or,no,blockhead,conservative
+3639,EN7580,n,an,no,lampyris bellieri,inclusive
+3645,EN5901,n,ddp,yes,microcephalic,inclusive
+3646,EN506,n,an,no,bozo,conservative
+3648,EN5497,n,cds,no,m. o. f. f. i. a.,conservative
+3651,EN619,n,svp,no,miser,conservative
+3655,EN3783,n,cds,no,mistress,conservative
+3658,EN3054,n,re,no,incriminatory,inclusive
+3660,EN1262,n,cds,no,rat,conservative
+3666,EN6031,n,cds,no,stealer,inclusive
+3670,EN1918,n,asf,no,retard,conservative
+3673,EN4403,n,pr,no,prositution,inclusive
+3679,EN1108,n,dmc,yes,scalawag,inclusive
+3685,EN3036,n,cds,no,criminating,inclusive
+3686,EN1898,n,ps,yes,idiocity,conservative
+3688,EN733,n,rci,yes,barbarousness,conservative
+3689,EN1262,n,ddp,yes,rat,conservative
+3693,EN4375,n,re,no,theivery,inclusive
+3696,EN1227,n,cds,no,dog,conservative
+3702,EN5043,n,qas,no,dissembled,conservative
+3703,EN1706,n,ps,yes,vagabond,inclusive
+3706,EN3776,n,cds,no,pimper,inclusive
+3708,EN6493,n,cds,no,homonculi,inclusive
+3714,EN4431,n,pr,no,whoremongering,inclusive
+3715,EN3378,n,svp,no,gourmands,conservative
+3717,EN5680,a,dmc,yes,brutal,conservative
+3718,EN1906,n,asf,no,eejit,conservative
+3722,EN1298,n,cds,no,bastard,inclusive
+3726,EN1704,n,dmc,yes,tramp,conservative
+3727,EN5038,n,cds,no,dissembles,inclusive
+3728,EN3372,n,svp,no,trencher-knives,inclusive
+3729,EN1747,n,dmc,yes,movie villains,conservative
+3737,EN1471,n,an,no,bos primigenius taurus,inclusive
+3738,EN616,n,svp,no,niggard,inclusive
+3740,EN7702,n,re,no,terrorisme,inclusive
+3741,EN3915,n,cds,no,wit-cracker,inclusive
+3747,EN1300,n,cds,no,mutha fucka,conservative
+3752,EN420,n,an,no,animals,inclusive
+3753,EN6673,v,asm,no,con,conservative
+3756,EN7132,a,cds,no,coward,conservative
+3757,EN1384,n,qas,no,botch,inclusive
+3759,EN1741,n,re,no,scoundrel,conservative
+3761,EN523,n,ddp,yes,putz,conservative
+3762,EN3051,n,re,no,cernō,inclusive
+3770,EN1934,n,an,no,bitch,conservative
+3771,EN535,n,or,no,loggerhead,conservative
+3781,EN2591,n,cds,no,junk,inclusive
+3784,EN877,n,asm,no,dummy,inclusive
+3788,EN4616,n,cds,no,great unwashed,inclusive
+3792,EN5940,n,ddp,yes,fatuously,conservative
+3793,EN3585,n,cds,no,moralisation,inclusive
+3802,EN516,n,an,no,idiot,conservative
+3806,EN3366,n,svp,no,gormandizes,inclusive
+3811,EN168,n,ps,yes,idiocy,conservative
+3813,EN1780,a,dmc,yes,unworthy,conservative
+3814,EN4270,v,asm,no,screw,conservative
+3815,EN3056,n,cds,no,breaking laws,inclusive
+3817,EN1901,n,cds,no,oaf,inclusive
+3821,EN1898,n,ddp,yes,idiocity,inclusive
+3828,EN1911,n,asm,no,moronic,inclusive
+3831,EN666,n,qas,no,nut,inclusive
+3833,EN3376,n,svp,no,gormandize,conservative
+3836,EN6665,v,re,no,victimize,inclusive
+3837,EN4686,n,svp,no,hubris,inclusive
+3849,EN523,n,cds,no,putz,conservative
+3851,EN3011,n,re,no,incriminator,inclusive
+3853,EN4732,n,asf,no,baby,conservative
+3855,EN957,n,cds,no,falsehood,conservative
+3857,EN1385,n,ddp,yes,fuckup,conservative
+3859,EN525,n,ps,yes,dolt,conservative
+3867,EN2053,n,cds,no,scum,conservative
+3871,EN1056,a,ddp,yes,silly,conservative
+3874,EN1708,n,cds,no,skunk,conservative
+3878,EN2035,n,cds,no,trafficker,inclusive
+3884,EN521,n,ps,yes,simple,conservative
+3892,EN3092,a,cds,no,criminal,inclusive
+3900,EN1893,n,asf,no,imbecile,conservative
+3901,EN5345,n,svp,no,slackingly,conservative
+3902,EN511,n,an,no,jackass,inclusive
+3904,EN3750,n,cds,no,procuress,conservative
+3907,EN2754,n,ps,yes,plant improvement,inclusive
+3908,EN520,n,asf,no,tomfool,conservative
+3910,EN5947,n,ddp,yes,stupidety,conservative
+3911,EN406,n,an,no,faunas,inclusive
+3912,EN3916,n,cds,no,gstieß,inclusive
+3914,EN6492,n,cds,no,homunculus,inclusive
+3919,EN1392,n,cds,no,boo-boo,inclusive
+3920,EN1746,n,is,yes,miscreants,conservative
+3922,EN2037,n,re,no,gouger,inclusive
+3925,EN1662,n,cds,no,effrontery,conservative
+3935,EN1077,n,cds,no,gangmembers,conservative
+3937,EN3367,n,svp,no,gormands,conservative
+3938,EN941,n,cds,no,hustler,conservative
+3942,EN1921,n,asf,no,lout,conservative
+3944,EN730,n,cds,no,barberian,conservative
+3948,EN531,n,asf,no,knucklehead,conservative
+3949,EN938,n,an,no,rent-boy,conservative
+3955,EN534,n,or,no,dumbass,conservative
+3957,EN6035,n,ddf,yes,shrimp,conservative
+3959,EN2678,n,asm,no,wankers,conservative
+3961,EN5086,n,cds,no,home credit,conservative
+3968,EN4701,n,dmc,yes,buffoon,inclusive
+3971,EN894,n,pr,no,harlot,conservative
+3980,EN617,n,an,no,misers,conservative
+3981,EN529,n,ddp,yes,dunce,conservative
+3982,EN1913,n,cds,no,stupidhead,inclusive
+3984,EN880,n,asf,no,pinhead,conservative
+3986,EN5261,n,cds,no,cattle-raid,inclusive
+3988,EN756,n,ddp,yes,brutality,inclusive
+3990,EN4332,a,cds,no,sly,conservative
+3998,EN3027,n,re,no,criminator,inclusive
+3999,EN1783,a,is,yes,wretched,conservative
+4001,EN5462,n,cds,no,👮,conservative
+4003,EN1464,n,an,no,cow's size,inclusive
+4006,EN4930,n,cds,no,ostentatiousness,conservative
+4007,EN877,n,ps,yes,dummy,conservative
+4011,EN877,n,ddp,yes,dummy,conservative
+4013,EN4437,n,pr,no,punter,conservative
+4014,EN2471,n,om,no,society for individual rights,inclusive
+4015,EN876,n,asm,no,ninny,conservative
+4019,EN336,n,cds,no,applesauce,conservative
+4021,EN514,n,asm,no,sap,conservative
+4029,EN421,n,ddp,yes,animate being,inclusive
+4030,EN1385,n,cds,no,fuckup,conservative
+4034,EN1118,n,cds,no,banditti,inclusive
+4036,EN521,n,or,no,simple,conservative
+4037,EN3777,n,cds,no,procurers,conservative
+4039,EN4767,a,dmc,yes,penurious,conservative
+4041,EN3064,n,re,no,incrimination,inclusive
+4045,EN1916,n,asm,no,half-wit,conservative
+4046,EN863,n,ddp,yes,soft touch,conservative
+4047,EN6822,a,or,no,demanding,conservative
+4060,EN1868,n,dmc,yes,parayars,inclusive
+4064,EN4043,n,re,no,fury,inclusive
+4067,EN1455,n,pr,no,cattle,inclusive
+4068,EN4926,n,cds,no,ostentation,conservative
+4075,EN4685,n,cds,no,supercilious,inclusive
+4080,EN5521,n,re,no,mafiosa,conservative
+4093,EN426,n,ddp,yes,metazoic,inclusive
+4098,EN5513,n,re,no,m a f f i a,conservative
+4100,EN7577,n,an,no,cantharis noctiluca,inclusive
+4117,EN1904,n,asm,no,dunder heads,inclusive
+4119,EN521,n,ddp,yes,simple,inclusive
+4124,EN1145,n,cds,no,roguishness,conservative
+4134,EN3686,a,dmc,yes,black,conservative
+4137,EN7682,n,re,no,terroriᶘm,inclusive
+4141,EN319,n,cds,no,gallimaufry,inclusive
+4143,EN5033,n,dmc,yes,dissemblers,inclusive
+4148,EN6842,a,cds,no,pedantic,conservative
+4160,EN6633,v,re,no,rag,inclusive
+4165,EN6843,a,cds,no,donnish,conservative
+4167,EN534,n,asf,no,dumbass,conservative
+4168,EN745,n,qas,no,peasant,conservative
+4169,EN522,n,asf,no,chump,conservative
+4170,EN1704,n,ps,yes,tramp,inclusive
+4173,EN5019,n,qas,no,lying by omission,conservative
+4179,EN3888,n,cds,no,bind,inclusive
+4180,EN1924,n,asm,no,changelings,inclusive
+4181,EN1918,n,ps,yes,retard,conservative
+4182,EN5738,n,is,yes,poor,inclusive
+4185,EN7707,n,re,no,act of terror,conservative
+4186,EN735,n,qas,no,tyke,conservative
+4187,EN520,n,cds,no,tomfool,conservative
+4194,EN740,n,rci,yes,churls,conservative
+4198,EN7569,n,pr,no,lampyris noctiluca,inclusive
+4200,EN957,n,dmc,yes,falsehood,inclusive
+4202,EN1026,n,cds,no,tale,conservative
+4203,EN2827,n,asf,no,c word,conservative
+4209,EN897,n,an,no,prostitute,conservative
+4210,EN1885,n,cds,no,weakling,conservative
+4217,EN672,n,qas,no,testis,inclusive
+4218,EN5034,n,cds,no,dissemble,conservative
+4219,EN1900,n,ddp,yes,dunder headed,inclusive
+4227,EN874,n,ddp,yes,nincompoop,conservative
+4233,EN1750,n,is,yes,villan,conservative
+4238,EN3745,n,cds,no,flesh-monger,conservative
+4240,EN5488,n,re,no,m. o. f. i. a.,conservative
+4243,EN520,n,ddp,yes,tomfool,conservative
+4245,EN1869,n,dmc,yes,paraiah,inclusive
+4246,EN1700,n,qas,no,vagrant,conservative
+4249,EN1075,n,cds,no,mob,inclusive
+4251,EN2477,n,om,no,gayest,inclusive
+4263,EN1908,n,cds,no,dunderheaded,inclusive
+4264,EN7559,a,dmc,yes,abject,conservative
+4265,EN338,n,cds,no,rubbish,conservative
+4267,EN1701,n,cds,no,puke,conservative
+4270,EN1231,n,cds,no,cad,conservative
+4271,EN4418,n,pr,no,hoe,conservative
+4275,EN529,n,an,no,dunce,conservative
+4281,EN1104,n,re,no,rapscallion,inclusive
+4282,EN858,n,ddp,yes,sucker,conservative
+4283,EN1920,n,asf,no,cooyon,conservative
+4289,EN4363,n,re,no,despoilment,inclusive
+4291,EN733,n,ddp,yes,barbarousness,conservative
+4297,EN1740,n,an,no,heavies,conservative
+4299,EN3768,n,cds,no,sex-trader,inclusive
+4307,EN4451,n,pr,no,mongering,conservative
+4308,EN1234,n,cds,no,slob,conservative
+4309,EN4069,n,cds,no,fascistic,conservative
+4312,EN1709,n,cds,no,stinkpot,conservative
+4317,EN3688,n,re,no,wretch,conservative
+4318,EN537,n,ddp,yes,numskull,conservative
+4319,EN690,n,qas,no,teste,inclusive
+4320,EN898,n,an,no,floozy,conservative
+4321,EN734,n,ddp,yes,boor,conservative
+4325,EN3197,n,cds,no,dissembler,conservative
+4328,EN859,n,ddp,yes,gull,conservative
+4329,EN1936,n,pr,no,sonamabitch,conservative
+4330,EN742,n,ps,yes,ceorle,conservative
+4332,EN2471,n,om,no,society for individual rights,conservative
+4336,EN1916,n,ddp,yes,half-wit,inclusive
+4339,EN2826,n,asf,no,c-word,conservative
+4341,EN4768,a,an,no,parsimonious,conservative
+4346,EN751,a,svp,no,esurient,conservative
+4350,EN880,n,ddp,yes,pinhead,conservative
+4356,EN338,n,cds,no,rubbish,inclusive
+4357,EN1896,n,ps,yes,idioticness,conservative
+4361,EN747,n,ddp,yes,the karls,conservative
+4368,EN396,n,an,no,brute,inclusive
+4374,EN2986,n,ddp,yes,goon,conservative
+4377,EN941,n,an,no,hustler,conservative
+4380,EN1235,n,dmc,yes,pig,conservative
+4381,EN2549,n,ddp,yes,charlatan,conservative
+4383,EN1107,n,dmc,yes,knave,conservative
+4384,EN2725,n,ps,yes,intraspecific hybrids,inclusive
+4385,EN740,n,ps,yes,churls,conservative
+4389,EN1304,n,cds,no,mothafucka,conservative
+4394,EN7579,n,pr,no,lampyris submucronata,inclusive
+4395,EN4770,a,dmc,yes,ungenerous,conservative
+4401,EN5521,n,re,no,mafiosa,inclusive
+4407,EN1125,n,cds,no,criminal,inclusive
+4409,EN1703,n,dmc,yes,lowlife,conservative
+4410,EN1745,n,cds,no,villainies,conservative
+4412,EN1700,n,dmc,yes,vagrant,conservative
+4414,EN744,n,ps,yes,barbaric,conservative
+4419,EN5509,n,cds,no,moffia,inclusive
+4422,EN5026,n,cds,no,prevaricate,inclusive
+4426,EN332,n,an,no,codswallop,conservative
+4431,EN4993,n,svp,no,libidinous,inclusive
+4436,EN959,n,cds,no,falsity,inclusive
+4440,EN1935,n,an,no,bitch-slap,conservative
+4441,EN289,n,svp,no,slug,conservative
+4447,EN332,n,cds,no,codswallop,conservative
+4450,EN748,n,cds,no,tike,conservative
+4453,EN738,n,rci,yes,goth,conservative
+4454,EN1409,n,qas,no,bumbler,conservative
+4456,EN2811,n,or,no,c-bomb,conservative
+4459,EN7401,a,is,yes,pitiable,conservative
+4463,EN959,n,qas,no,falsity,conservative
+4471,EN34,n,ddp,yes,insensibility,conservative
+4473,EN5015,a,svp,no,faineant,conservative
+4479,EN4764,a,dmc,yes,insular,conservative
+4480,EN1741,n,is,yes,scoundrel,conservative
+4482,EN530,n,or,no,dunderhead,conservative
+4488,EN1108,n,an,no,scalawag,conservative
+4490,EN7711,n,re,no,terrorize,inclusive
+4494,EN7142,a,re,no,violent,conservative
+4499,EN1707,n,qas,no,derelict,inclusive
+4503,EN2491,n,cds,no,gossip,inclusive
+4505,EN700,n,qas,no,orchitic,inclusive
+4508,EN1922,n,ps,yes,idiotes,conservative
+4509,EN5501,n,re,no,mafias,inclusive
+4513,EN1904,n,cds,no,dunder heads,inclusive
+4515,EN1752,n,cds,no,villians,conservative
+4518,EN495,n,asm,no,betise,conservative
+4519,EN2723,n,ps,yes,hybridizers,inclusive
+4521,EN544,n,om,no,donkey,inclusive
+4522,EN1307,n,cds,no,prick,conservative
+4523,EN1317,n,cds,no,motherfucka,conservative
+4524,EN4420,n,pr,no,bawds,inclusive
+4533,EN3390,n,svp,no,trencher-knife,inclusive
+4536,EN3013,n,cds,no,criminate,inclusive
+4539,EN1750,n,re,no,villan,conservative
+4541,EN1922,n,ddp,yes,idiotes,inclusive
+4544,EN955,n,cds,no,prevarication,conservative
+4549,EN1915,n,ps,yes,th. metzger,conservative
+4563,EN1906,n,ddp,yes,eejit,conservative
+4565,EN417,n,ddp,yes,epifaunal,inclusive
+4566,EN1933,n,asf,no,cunt,conservative
+4574,EN7396,a,qas,no,poor,conservative
+4575,EN2819,n,asf,no,snatch,conservative
+4576,EN2753,n,ps,yes,crossbreeds,inclusive
+4584,EN1117,n,cds,no,malefactor,inclusive
+4592,EN1104,n,re,no,rapscallion,conservative
+4595,EN1904,n,asf,no,dunder heads,conservative
+4597,EN1895,n,asf,no,changeling,conservative
+4603,EN680,n,qas,no,ballocks,inclusive
+4608,EN732,n,an,no,savage,conservative
+4609,EN4356,n,re,no,asportation,inclusive
+4613,EN1703,n,an,no,lowlife,conservative
+4614,EN525,n,ddp,yes,dolt,conservative
+4616,EN1925,n,asm,no,coo-yon,inclusive
+4623,EN1408,n,an,no,wildcat,conservative
+4624,EN2489,n,ddp,yes,newsmonger,conservative
+4644,EN5508,n,cds,no,badda bing,inclusive
+4647,EN2684,n,asm,no,wanky,conservative
+4650,EN4412,n,pr,no,sex client,inclusive
+4653,EN7400,a,dmc,yes,miserable,conservative
+4657,EN693,n,asm,no,balls,inclusive
+4658,EN528,n,ddp,yes,hammerhead,conservative
+4659,EN729,n,rci,yes,barbarian,conservative
+4664,EN5041,n,cds,no,liars,inclusive
+4665,EN1101,n,dmc,yes,rascal,inclusive
+4666,EN5680,a,ddp,yes,brutal,conservative
+4667,EN499,n,asf,no,imbecility,conservative
+4674,EN5091,n,cds,no,loansharking,inclusive
+4678,EN3369,n,svp,no,gourmandized,conservative
+4681,EN1883,n,an,no,pansy,conservative
+4691,EN1413,n,ddp,yes,blunderer,conservative
+4696,EN5397,n,pr,no,moths,inclusive
+4697,EN525,n,ddp,yes,dolt,inclusive
+4699,EN5396,n,an,no,moth,inclusive
+4700,EN618,n,an,no,tightwaddery,conservative
+4701,EN4767,a,is,yes,penurious,conservative
+4712,EN741,n,qas,no,barbarously,conservative
+4713,EN5493,n,re,no,moffias,conservative
+4723,EN6636,v,re,no,torment,inclusive
+4725,EN730,n,rci,yes,barberian,conservative
+4726,EN5750,n,cds,no,pride,inclusive
+4728,EN5012,a,svp,no,lazy,conservative
+4730,EN692,n,asm,no,testicles,inclusive
+4731,EN859,n,cds,no,gull,conservative
+4737,EN4765,a,qas,no,parochial,inclusive
+4739,EN2488,n,cds,no,gossiper,conservative
+4741,EN2038,n,dmc,yes,chiseler,conservative
+4743,EN5344,n,svp,no,shirker,conservative
+4753,EN1898,n,asm,no,idiocity,inclusive
+4754,EN3773,n,cds,no,madams,conservative
+4758,EN7584,n,an,no,lampyris thoracica,inclusive
+4759,EN517,n,asm,no,saphead,conservative
+4760,EN1914,n,ddp,yes,idiotism,inclusive
+4766,EN934,n,pr,no,street walker,conservative
+4768,EN2487,n,ddp,yes,rumourmonger,conservative
+4770,EN1907,n,asm,no,idiots,inclusive
+4776,EN1893,n,ps,yes,imbecile,conservative
+4779,EN1887,n,an,no,milquetoast,conservative
+4780,EN2632,n,dmc,yes,deceitfulness,conservative
+4784,EN6539,n,qas,no,walloper,conservative
+4785,EN6790,v,cds,no,moralize,conservative
+4787,EN5751,n,svp,no,superbia,conservative
+4792,EN1782,a,dmc,yes,ugly,conservative
+4793,EN7571,n,an,no,glow-worm,inclusive
+4794,EN3743,n,cds,no,pimpin',conservative
+4804,EN3444,n,svp,no,voraciousness,inclusive
+4808,EN5089,n,cds,no,money lending,conservative
+4809,EN2457,n,om,no,fairy,conservative
+4812,EN1406,n,ddp,yes,demetrius savelio,conservative
+4813,EN453,n,re,no,assault,conservative
+4817,EN4929,n,cds,no,pomposity,conservative
+4818,EN5082,n,cds,no,moneylender,conservative
+4824,EN5499,n,re,no,m o f i a,conservative
+4830,EN1901,n,ddp,yes,oaf,conservative
+4831,EN3735,n,cds,no,pimped,inclusive
+4836,EN1922,n,ddp,yes,idiotes,conservative
+4842,EN4342,n,an,no,jade,inclusive
+4844,EN4399,n,pr,no,prostitution,inclusive
+4851,EN867,n,ddp,yes,dullard,conservative
+4854,EN5485,n,re,no,maffias,inclusive
+4860,EN4369,n,cds,no,thiefing,inclusive
+4865,EN1915,n,asf,no,th. metzger,conservative
+4866,EN1105,n,cds,no,rogue,conservative
+4872,EN2182,n,qas,no,muddle,inclusive
+4875,EN2992,n,ps,yes,dimwit,conservative
+4877,EN3688,n,dmc,yes,wretch,conservative
+4878,EN388,n,ddp,yes,kingdom animalia,inclusive
+4881,EN1390,n,cds,no,pratfall,inclusive
+4884,EN617,n,is,yes,misers,conservative
+4887,EN1881,n,cds,no,doormat,conservative
+4889,EN1745,n,an,no,villainies,conservative
+4890,EN1703,n,cds,no,lowlife,conservative
+4891,EN1695,n,dmc,yes,git,conservative
+4895,EN419,n,ddp,yes,faunae,inclusive
+4896,EN859,n,asf,no,gull,conservative
+4897,EN1697,n,cds,no,stinker,conservative
+4898,EN3925,n,cds,no,joker,inclusive
+4900,EN339,n,cds,no,trash,inclusive
+4901,EN516,n,asm,no,idiot,conservative
+4910,EN608,n,svp,no,meanness,inclusive
+4912,EN756,n,ddp,yes,brutality,conservative
+4914,EN543,n,an,no,ass,inclusive
+4916,EN6518,n,cds,no,usuary,conservative
+4920,EN2821,n,or,no,slit,conservative
+4926,EN930,n,pr,no,jigolo,conservative
+4930,EN745,n,pa,yes,peasant,conservative
+4933,EN860,n,ddp,yes,patsy,conservative
+4935,EN6593,v,qas,no,flub,conservative
+4939,EN2819,n,or,no,snatch,conservative
+4946,EN2041,n,cds,no,swindler,inclusive
+4948,EN1235,n,an,no,pig,conservative
+4949,EN695,n,asm,no,testicle,inclusive
+4952,EN1311,n,ddp,yes,muthafucka,conservative
+4955,EN613,n,is,yes,skinflint,conservative
+4960,EN3391,n,svp,no,trenchermen,inclusive
+4961,EN310,n,cds,no,hotchpotch,inclusive
+4962,EN1791,n,an,no,hole,inclusive
+4964,EN5080,n,cds,no,ah long,conservative
+4966,EN1725,n,dmc,yes,loafer,conservative
+4967,EN2772,n,cds,no,interfertility,inclusive
+4969,EN407,n,an,no,animalia kingdom,inclusive
+4970,EN4463,n,pr,no,turning tricks,inclusive
+4971,EN7074,a,an,no,beastly,conservative
+4973,EN3081,n,re,no,criminations,inclusive
+4974,EN6930,a,svp,no,cross,conservative
+4978,EN5610,n,an,no,parasite,conservative
+4979,EN5518,n,cds,no,m.o.f.i.a.,conservative
+4981,EN1101,n,dmc,yes,rascal,conservative
+4982,EN1068,n,cds,no,gangs,inclusive
+4983,EN1731,n,dmc,yes,villainesses,conservative
+4987,EN4432,n,pr,no,sex clients,conservative
+4997,EN2679,n,asm,no,jerk-off,conservative
+5000,EN1870,n,dmc,yes,paraiyar,inclusive
+5001,EN1901,n,asm,no,oaf,inclusive
+5002,EN880,n,ps,yes,pinhead,conservative
+5004,EN863,n,ps,yes,soft touch,conservative
+5006,EN1914,n,ps,yes,idiotism,conservative
+5010,EN497,n,asf,no,folly,conservative
+5011,EN1731,n,is,yes,villainesses,conservative
+5012,EN6918,a,cds,no,cocksure,conservative
+5021,EN1926,n,asm,no,coo yon,inclusive
+5023,EN3022,n,cds,no,baddoing,inclusive
+5028,EN730,n,ps,yes,barberian,conservative
+5030,EN3576,n,dmc,yes,indelicate,inclusive
+5034,EN2812,n,or,no,puss,conservative
+5036,EN3383,n,svp,no,gormandizing,inclusive
+5037,EN1928,n,an,no,sonuvabitch,conservative
+5038,EN6142,n,ps,yes,negro,inclusive
+5041,EN1412,n,qas,no,fumbler,conservative
+5043,EN668,n,qas,no,bollock,inclusive
+5044,EN1895,n,ddp,yes,changeling,inclusive
+5048,EN525,n,asm,no,dolt,conservative
+5055,EN863,n,an,no,soft touch,conservative
+5059,EN6901,a,re,no,angry,inclusive
+5063,EN1865,n,dmc,yes,paraiya,inclusive
+5064,EN857,n,an,no,fall guy,conservative
+5065,EN413,n,ddp,yes,beast,inclusive
+5067,EN5484,n,cds,no,cosa nostra,inclusive
+5073,EN514,n,an,no,sap,conservative
+5075,EN3442,n,an,no,nanus,conservative
+5078,EN5496,n,cds,no,la costa nostra,conservative
+5079,EN732,n,dmc,yes,savage,conservative
+5082,EN2783,n,ps,yes,crossed,inclusive
+5085,EN5496,n,re,no,la costa nostra,inclusive
+5087,EN2323,n,asm,no,screw,conservative
+5088,EN747,n,dmc,yes,the karls,conservative
+5089,EN5033,n,cds,no,dissemblers,inclusive
+5090,EN2491,n,ddp,yes,gossip,conservative
+5091,EN5935,n,asm,no,stupidness,conservative
+5097,EN3922,n,dmc,yes,jestyr,inclusive
+5098,EN289,n,cds,no,slug,conservative
+5105,EN3892,n,cds,no,pickle,inclusive
+5116,EN2441,n,or,no,fayg,conservative
+5119,EN5532,n,re,no,mofia,conservative
+5123,EN5936,n,asm,no,unintelligent,conservative
+5124,EN747,n,cds,no,the karls,conservative
+5125,EN2591,n,cds,no,junk,conservative
+5126,EN3766,n,cds,no,loverboy,conservative
+5127,EN1750,n,dmc,yes,villan,conservative
+5128,EN1658,n,cds,no,egotistical,conservative
+5129,EN1708,n,an,no,skunk,conservative
+5132,EN5520,n,re,no,m. a. f. i. a.,conservative
+5135,EN869,n,or,no,stupe,conservative
+5136,EN189,n,cds,no,conceit,conservative
+5138,EN1911,n,ddp,yes,moronic,conservative
+5139,EN5495,n,cds,no,mofias,inclusive
+5143,EN7402,a,is,yes,pitiful,conservative
+5146,EN1891,n,cds,no,chicken,conservative
+5149,EN513,n,ps,yes,fool,conservative
+5151,EN1075,n,ddp,yes,mob,conservative
+5156,EN1873,n,is,yes,pariah,inclusive
+5157,EN1688,n,cds,no,mass,conservative
+5158,EN413,n,ddp,yes,beast,conservative
+5162,EN2866,n,an,no,hoaxer,conservative
+5164,EN3764,n,cds,no,pimp,inclusive
+5165,EN5488,n,re,no,m. o. f. i. a.,inclusive
+5167,EN7894,n,cds,no,'ndrangheta,inclusive
+5168,EN1923,n,ddp,yes,idiotic,inclusive
+5182,EN3747,n,cds,no,sextrader,conservative
+5184,EN1307,n,asm,no,prick,conservative
+5192,EN1892,n,cds,no,namby-pamby,conservative
+5193,EN956,n,cds,no,lie,conservative
+5196,EN3067,n,cds,no,incriminate,inclusive
+5197,EN747,n,rci,yes,the karls,conservative
+5199,EN1100,n,cds,no,varlet,conservative
+5200,EN738,n,ddp,yes,goth,conservative
+5201,EN5025,n,cds,no,porky pie,conservative
+5209,EN957,n,cds,no,falsehood,inclusive
+5211,EN2462,n,om,no,shman,conservative
+5219,EN4434,n,pr,no,whoring,conservative
+5221,EN516,n,asm,no,idiot,inclusive
+5222,EN1744,n,re,no,badguy,conservative
+5224,EN1901,n,asf,no,oaf,conservative
+5225,EN3030,n,re,no,unlawfulness,inclusive
+5227,EN1064,n,dmc,yes,bigot,conservative
+5228,EN1916,n,asf,no,half-wit,conservative
+5229,EN315,n,qas,no,hodgepodge,inclusive
+5231,EN1886,n,cds,no,wuss,conservative
+5232,EN689,n,qas,no,testical,inclusive
+5237,EN6825,v,an,no,rage,conservative
+5238,EN4919,n,ddp,yes,ignorant,conservative
+5241,EN615,n,an,no,penny pincher,conservative
+5243,EN735,n,cds,no,tyke,conservative
+5245,EN536,n,ddp,yes,lunkhead,conservative
+5248,EN6520,n,ps,yes,vandal,inclusive
+5249,EN1065,n,cds,no,bigoted,conservative
+5264,EN5024,n,cds,no,lying in trade,inclusive
+5265,EN2997,n,dmc,yes,waster,conservative
+5267,EN3919,n,cds,no,wit cracker,inclusive
+5268,EN5490,n,cds,no,the m.a.f.f.i.a.,conservative
+5276,EN523,n,asm,no,putz,inclusive
+5282,EN1783,a,dmc,yes,wretched,conservative
+5283,EN1125,n,cds,no,criminal,conservative
+5294,EN1055,a,cds,no,stupid,conservative
+5301,EN1698,n,an,no,so-and-so,conservative
+5304,EN1907,n,ps,yes,idiots,conservative
+5305,EN5032,n,cds,no,fibster,inclusive
+5309,EN522,n,or,no,chump,conservative
+5310,EN3908,n,cds,no,giullare,inclusive
+5311,EN5034,n,dmc,yes,dissemble,inclusive
+5312,EN1302,n,cds,no,motherfuck,conservative
+5313,EN1924,n,ps,yes,changelings,conservative
+5314,EN6663,v,re,no,rook,inclusive
+5316,EN740,n,ddp,yes,churls,conservative
+5317,EN7403,a,qas,no,hapless,conservative
+5319,EN3047,n,cds,no,criminalities,inclusive
+5324,EN5944,n,asm,no,stupes,conservative
+5328,EN516,n,cds,no,idiot,inclusive
+5330,EN1078,n,cds,no,ring,inclusive
+5335,EN737,n,pa,yes,barbarically,conservative
+5343,EN2841,n,cds,no,cabal,inclusive
+5345,EN739,n,rci,yes,barbarous,conservative
+5349,EN1926,n,asf,no,coo yon,conservative
+5352,EN357,n,ddp,yes,illiterate,inclusive
+5354,EN4352,n,re,no,filching,inclusive
+5355,EN2629,n,cds,no,craftiness,conservative
+5359,EN4243,n,svp,no,goldbrick,conservative
+5362,EN336,n,ddp,yes,applesauce,conservative
+5366,EN510,n,ddp,yes,twat,conservative
+5367,EN1682,n,cds,no,conceitedness,conservative
+5369,EN960,n,cds,no,untruth,conservative
+5370,EN2442,n,om,no,fag,inclusive
+5372,EN6672,v,asm,no,bunco,conservative
+5375,EN5678,a,dmc,yes,barbarous,conservative
+5376,EN1924,n,ddp,yes,changelings,inclusive
+5378,EN1681,n,cds,no,vainglorious,conservative
+5385,EN1676,n,cds,no,hauteur,conservative
+5390,EN1123,n,cds,no,outlawing,inclusive
+5391,EN5501,n,cds,no,mafias,conservative
+5396,EN2459,n,or,no,fagot,conservative
+5398,EN334,n,ddp,yes,trumpery,conservative
+5399,EN6670,v,re,no,mulct,inclusive
+5402,EN5032,n,cds,no,fibster,conservative
+5405,EN1121,n,dmc,yes,crook,inclusive
+5407,EN3808,n,ps,yes,fascist,inclusive
+5409,EN4424,n,pr,no,horcwenan,conservative
+5420,EN3746,n,cds,no,panderer,inclusive
+5423,EN5033,n,cds,no,dissemblers,conservative
+5424,EN6675,v,asm,no,nobble,conservative
+5427,EN2787,n,ps,yes,intra-specific hybrids,inclusive
+5429,EN529,n,asf,no,dunce,conservative
+5433,EN7073,a,an,no,brutish,conservative
+5436,EN742,n,qas,no,ceorle,conservative
+5437,EN5474,n,cds,no,cop,inclusive
+5439,EN4641,a,svp,no,gluttonous,conservative
+5441,EN34,n,svp,no,insensibility,inclusive
+5444,EN2575,n,qas,no,municipal composting,inclusive
+5448,EN2724,n,cds,no,hybridism,inclusive
+5449,EN5954,n,ddp,yes,unintelligence,conservative
+5455,EN3748,n,cds,no,pimping,inclusive
+5456,EN1735,n,re,no,villain,conservative
+5457,EN939,n,an,no,male escort,conservative
+5461,EN3373,n,svp,no,gourmandizes,inclusive
+5464,EN1108,n,cds,no,scalawag,inclusive
+5467,EN1920,n,ps,yes,cooyon,conservative
+5468,EN2442,n,or,no,fag,conservative
+5469,EN6489,n,cds,no,humunculus,inclusive
+5477,EN5507,n,re,no,mafiosos,conservative
+5478,EN2593,n,cds,no,municipal compost,conservative
+5479,EN2750,n,cds,no,hybridization event,inclusive
+5484,EN3430,n,dmc,yes,floater,inclusive
+5486,EN4439,n,pr,no,female sex workers,conservative
+5488,EN4687,n,cds,no,overweening,inclusive
+5489,EN4935,n,cds,no,schoolmarm,conservative
+5493,EN5524,n,re,no,m.o.f.f.i.a.,inclusive
+5495,EN1745,n,re,no,villainies,conservative
+5496,EN1056,a,cds,no,silly,conservative
+5500,EN525,n,cds,no,dolt,inclusive
+5501,EN1402,n,cds,no,pharisee,conservative
+5508,EN745,n,qas,no,peasant,inclusive
+5509,EN1904,n,ps,yes,dunder heads,conservative
+5512,EN1894,n,asf,no,idoit,conservative
+5515,EN2478,n,or,no,gays,conservative
+5517,EN936,n,pr,no,man-whores,conservative
+5522,EN335,n,asf,no,tripe,conservative
+5524,EN1905,n,ddp,yes,idiocies,conservative
+5525,EN681,n,asm,no,bollocks,inclusive
+5526,EN3016,n,re,no,incriminating,inclusive
+5529,EN6912,n,cds,no,jerking off,conservative
+5532,EN3921,n,dmc,yes,jesters,inclusive
+5534,EN1409,n,ddp,yes,bumbler,conservative
+5536,EN7397,a,qas,no,pathetic,conservative
+5537,EN3468,a,qas,no,mad,inclusive
+5538,EN5493,n,cds,no,moffias,conservative
+5539,EN4360,n,cds,no,larcency,inclusive
+5541,EN1677,n,svp,no,lordliness,conservative
+5547,EN1894,n,ddp,yes,idoit,inclusive
+5551,EN6635,v,re,no,frustrate,inclusive
+5553,EN2182,n,cds,no,muddle,inclusive
+5554,EN2825,n,or,no,cunts,conservative
+5556,EN512,n,an,no,goofball,conservative
+5561,EN2855,n,cds,no,culling,conservative
+5564,EN1289,n,cds,no,motherfucking,conservative
+5566,EN5016,a,svp,no,otiose,conservative
+5567,EN958,n,cds,no,falsities,conservative
+5573,EN663,n,rci,yes,churl,conservative
+5578,EN1700,n,ps,yes,vagrant,inclusive
+5585,EN5519,n,re,no,m a f i a,conservative
+5588,EN1320,n,ddp,yes,whoreson,conservative
+5589,EN5499,n,cds,no,m o f i a,inclusive
+5595,EN1914,n,asm,no,idiotism,inclusive
+5597,EN6995,a,dmc,yes,phoney,conservative
+5598,EN741,n,pa,yes,barbarously,conservative
+5601,EN3374,n,svp,no,gourmandizer,conservative
+5605,EN387,n,ddp,yes,mesofauna,inclusive
+5610,EN3906,n,cds,no,buffoonery,inclusive
+5616,EN514,n,ddp,yes,sap,conservative
+5617,EN732,n,rci,yes,savage,conservative
+5618,EN5519,n,cds,no,m a f i a,conservative
+5620,EN4246,n,dmc,yes,goof-off,conservative
+5623,EN958,n,qas,no,falsities,conservative
+5624,EN7833,a,om,no,transvestite,inclusive
+5628,EN1729,n,qas,no,rout,inclusive
+5629,EN335,n,cds,no,tripe,conservative
+5631,EN1914,n,cds,no,idiotism,inclusive
+5634,EN1752,n,an,no,villians,conservative
+5637,EN5460,n,cds,no,patrolman,conservative
+5639,EN3382,n,svp,no,gourmandize,inclusive
+5640,EN3197,n,qas,no,dissembler,conservative
+5643,EN2991,n,ddp,yes,nitwit,conservative
+5645,EN958,n,cds,no,falsities,inclusive
+5648,EN534,n,an,no,dumbass,conservative
+5650,EN877,n,asf,no,dummy,conservative
+5651,EN7075,a,ddp,yes,brute,conservative
+5652,EN5509,n,re,no,moffia,conservative
+5657,EN3889,n,cds,no,fix,inclusive
+5658,EN1472,n,an,no,🐮,inclusive
+5659,EN1235,n,cds,no,pig,conservative
+5660,EN1297,n,an,no,shit,conservative
+5662,EN2035,n,re,no,trafficker,inclusive
+5666,EN1741,n,an,no,scoundrel,conservative
+5667,EN1735,n,dmc,yes,villain,conservative
+5669,EN608,n,an,no,meanness,conservative
+5671,EN512,n,ddp,yes,goofball,conservative
+5672,EN1413,n,cds,no,blunderer,conservative
+5673,EN684,n,asm,no,ball,inclusive
+5678,EN1783,a,qas,no,wretched,conservative
+5680,EN399,n,ddp,yes,kingdomanimalia,inclusive
+5686,EN1704,n,cds,no,tramp,conservative
+5691,EN503,a,an,no,brainless,conservative
+5698,EN3412,n,dmc,yes,delinquent,conservative
+5702,EN3769,n,cds,no,pimpers,inclusive
+5707,EN1735,n,is,yes,villain,conservative
+5713,EN5756,n,cds,no,racketeer,inclusive
+5714,EN664,n,svp,no,scrooge,conservative
+5720,EN4374,n,cds,no,larceny,inclusive
+5722,EN5022,n,cds,no,prevaricating,conservative
+5727,EN6491,n,dmc,yes,homomunculi,inclusive
+5734,EN864,n,cds,no,pillock,conservative
+5736,EN735,n,ps,yes,tyke,conservative
+5738,EN2177,n,svp,no,parsimoniousness,conservative
+5741,EN1907,n,asf,no,idiots,conservative
+5742,EN1913,n,ps,yes,stupidhead,conservative
+5744,EN1384,n,cds,no,botch,inclusive
+5746,EN526,n,an,no,shithead,conservative
+5756,EN312,n,cds,no,ragbag,inclusive
+5766,EN2683,n,cds,no,wankier,conservative
+5770,EN1476,n,an,no,beeves,inclusive
+5771,EN729,n,ps,yes,barbarian,inclusive
+5773,EN2550,n,cds,no,charlatanry,conservative
+5777,EN1709,n,dmc,yes,stinkpot,inclusive
+5779,EN1385,n,qas,no,fuckup,inclusive
+5781,EN3759,n,cds,no,flesh-mongers,conservative
+5784,EN5267,n,re,no,abigeus,inclusive
+5785,EN314,n,cds,no,omnium-gatherum,inclusive
+5786,EN862,n,cds,no,mug,conservative
+5787,EN5197,a,svp,no,envious,conservative
+5788,EN520,n,an,no,tomfool,conservative
+5789,EN2590,n,cds,no,waste,inclusive
+5791,EN1103,n,cds,no,scallywag,conservative
+5797,EN4379,n,re,no,filcher,inclusive
+5801,EN7076,a,ddp,yes,bestial,conservative
+5805,EN5495,n,cds,no,mofias,conservative
+5810,EN1065,n,dmc,yes,bigoted,conservative
+5815,EN507,n,an,no,goose,inclusive
+5818,EN738,n,cds,no,goth,conservative
+5820,EN531,n,or,no,knucklehead,conservative
+5822,EN5025,n,qas,no,porky pie,conservative
+5824,EN499,n,ddp,yes,imbecility,inclusive
+5825,EN1437,n,an,no,ferociousness,conservative
+5837,EN2040,n,dmc,yes,defrauder,conservative
+5838,EN1745,n,is,yes,villainies,conservative
+5841,EN740,n,qas,no,churls,conservative
+5842,EN522,n,asm,no,chump,inclusive
+5843,EN2037,n,cds,no,gouger,conservative
+5844,EN7400,a,qas,no,miserable,conservative
+5851,EN1743,n,is,yes,villian,conservative
+5853,EN1318,n,cds,no,arse,conservative
+5859,EN5517,n,re,no,mafiosi,inclusive
+5860,EN4051,n,dmc,yes,mope,conservative
+5863,EN1902,n,cds,no,cretin,inclusive
+5864,EN2988,n,ps,yes,stumblebum,conservative
+5866,EN1911,n,ps,yes,moronic,conservative
+5869,EN510,n,asf,no,twat,conservative
+5870,EN7564,n,ddp,yes,stuff,inclusive
+5872,EN1416,n,cds,no,botcher,conservative
+5874,EN4446,n,pr,no,queans,inclusive
+5875,EN2814,n,or,no,cunt-splice,conservative
+5876,EN1320,n,cds,no,whoreson,inclusive
+5878,EN5342,n,cds,no,slacker,conservative
+5880,EN1385,n,qas,no,fuckup,conservative
+5886,EN2458,n,om,no,nance,conservative
+5889,EN5532,n,cds,no,mofia,conservative
+5890,EN2460,n,or,no,pidor,conservative
+5892,EN5510,n,re,no,sicilian mobsters,conservative
+5896,EN1433,n,ddp,yes,zooerasty,conservative
+5898,EN339,n,qas,no,trash,inclusive
+5900,EN1027,n,cds,no,story,conservative
+5902,EN2742,n,ps,yes,plant breeders,inclusive
+5904,EN1680,n,svp,no,vainglories,conservative
+5907,EN2453,n,or,no,poof,conservative
+5909,EN1066,n,dmc,yes,bigotry,conservative
+5910,EN402,n,ddp,yes,creature,inclusive
+5912,EN2989,n,ps,yes,gawk,conservative
+5913,EN3034,n,re,no,criminally,inclusive
+5915,EN1924,n,cds,no,changelings,inclusive
+5917,EN1916,n,cds,no,half-wit,inclusive
+5918,EN681,n,qas,no,bollocks,inclusive
+5920,EN6634,v,re,no,dun,inclusive
+5922,EN3395,n,svp,no,glutton,inclusive
+5924,EN1391,n,qas,no,boner,inclusive
+5927,EN729,n,ddp,yes,barbarian,conservative
+5933,EN745,n,rci,yes,peasant,inclusive
+5934,EN1121,n,re,no,crook,inclusive
+5937,EN2764,n,ps,yes,interspecific hybrids,inclusive
+5938,EN168,n,ddp,yes,idiocy,inclusive
+5940,EN745,n,ddp,yes,peasant,conservative
+5942,EN513,n,or,no,fool,conservative
+5951,EN7703,n,re,no,terrorism,conservative
+5952,EN1227,n,an,no,dog,conservative
+5954,EN339,n,asf,no,trash,conservative
+5956,EN522,n,ddp,yes,chump,inclusive
+5957,EN748,n,qas,no,tike,conservative
+5958,EN733,n,pa,yes,barbarousness,conservative
+5959,EN670,n,qas,no,bollocking,inclusive
+5965,EN1538,n,asm,no,brownish,inclusive
+5967,EN4357,n,cds,no,thievery,inclusive
+5970,EN2677,n,cds,no,wankiest,conservative
+5971,EN2815,n,asf,no,pussy,conservative
+5974,EN1075,n,qas,no,mob,inclusive
+5975,EN1878,n,is,yes,parayan,inclusive
+5980,EN5520,n,re,no,m. a. f. i. a.,inclusive
+5981,EN732,n,cds,no,savage,conservative
+5983,EN2580,n,qas,no,household wastes,inclusive
+5984,EN4060,n,cds,no,mobster,inclusive
+5985,EN737,n,rci,yes,barbarically,conservative
+5986,EN955,n,qas,no,prevarication,conservative
+5988,EN465,n,re,no,ravishment,inclusive
+5991,EN5524,n,re,no,m.o.f.f.i.a.,conservative
+5993,EN5483,n,re,no,mafia,conservative
+5997,EN1063,n,svp,no,bigots,conservative
+5998,EN3749,n,cds,no,pandar,inclusive
+5999,EN3078,n,re,no,incriminated,inclusive
+6000,EN193,n,cds,no,philautia,conservative
+6001,EN2512,n,an,no,squealer,inclusive
+6002,EN2039,n,cds,no,frauder,inclusive
+6003,EN7399,a,qas,no,misfortunate,conservative
+6007,EN1674,n,cds,no,high-handedness,conservative
+6008,EN742,n,ddp,yes,ceorle,conservative
+6009,EN1679,n,cds,no,vainest,conservative
+6011,EN4455,n,pr,no,no money no honey,conservative
+6013,EN7458,n,cds,no,duffer,conservative
+6015,EN306,n,cds,no,trick,inclusive
+6019,EN3091,n,an,no,jack,inclusive
+6020,EN743,n,rci,yes,barbarians,conservative
+6023,EN5479,n,cds,no,policewoman,conservative
+6024,EN6902,a,re,no,raging,conservative
+6026,EN2992,n,asf,no,dimwit,conservative
+6031,EN3763,n,cds,no,fancy man,inclusive
+6032,EN3003,n,cds,no,baddoer,inclusive
+6033,EN1701,n,dmc,yes,puke,inclusive
+6034,EN2051,n,an,no,ragtag,conservative
+6043,EN7576,n,pr,no,lampyris parvicollis,inclusive
+6044,EN5484,n,re,no,cosa nostra,inclusive
+6046,EN6920,a,svp,no,chesty,conservative
+6048,EN870,n,or,no,stupid,conservative
+6050,EN5490,n,re,no,the m.a.f.f.i.a.,inclusive
+6051,EN2474,n,om,no,homophilia,inclusive
+6053,EN1132,n,ddp,yes,telltale,conservative
+6060,EN1685,n,svp,no,vanagloria,conservative
+6061,EN862,n,asm,no,mug,conservative
+6063,EN6841,a,pa,yes,academic,conservative
+6076,EN5483,n,re,no,mafia,inclusive
+6079,EN4457,n,pr,no,harlots,inclusive
+6082,EN1920,n,ddp,yes,cooyon,inclusive
+6084,EN194,n,svp,no,vanity,conservative
+6086,EN5010,n,dmc,yes,liar,inclusive
+6087,EN875,n,asm,no,poop,conservative
+6088,EN4406,n,pr,no,kerbcrawl,conservative
+6089,EN730,n,ddp,yes,barberian,conservative
+6092,EN1890,n,cds,no,crybaby,conservative
+6095,EN1707,n,an,no,derelict,conservative
+6098,EN188,n,cds,no,self-love,inclusive
+6100,EN1923,n,cds,no,idiotic,inclusive
+6104,EN6595,v,qas,no,muff,conservative
+6106,EN5062,a,ps,yes,unfortunate,inclusive
+6110,EN395,n,an,no,anamalia,inclusive
+6115,EN5023,n,cds,no,lying through your teeth,conservative
+6116,EN3737,n,cds,no,procuring,conservative
+6118,EN4769,a,svp,no,stingy,conservative
+6120,EN5936,n,ddp,yes,unintelligent,conservative
+6126,EN614,n,svp,no,cheapskate,conservative
+6130,EN5949,n,asm,no,fooled,conservative
+6131,EN1781,a,dmc,yes,vile,conservative
+6133,EN2050,n,ddp,yes,riffraff,conservative
+6134,EN4281,v,asm,no,roll in the hay,conservative
+6137,EN7675,a,svp,no,supercilious,conservative
+6141,EN2941,n,cds,no,demagogical,conservative
+6148,EN1306,n,ddp,yes,mazafaka,conservative
+6150,EN4454,n,pr,no,whore-monger,inclusive
+6153,EN5468,n,cds,no,police-women,conservative
+6157,EN507,n,an,no,goose,conservative
+6159,EN168,n,cds,no,idiocy,inclusive
+6163,EN499,n,ddp,yes,imbecility,conservative
+6164,EN4445,n,pr,no,whore-mongers,conservative
+6167,EN6519,n,cds,no,usury,inclusive
+6171,EN1231,n,dmc,yes,cad,conservative
+6177,EN199,n,svp,no,slothful,inclusive
+6183,EN732,n,qas,no,savage,conservative
+6184,EN526,n,or,no,shithead,conservative
+6186,EN2042,n,re,no,scammer,inclusive
+6187,EN4048,n,svp,no,dillydallier,conservative
+6188,EN1299,n,cds,no,arsehole,conservative
+6189,EN1913,n,ddp,yes,stupidhead,conservative
+6190,EN2051,n,ddp,yes,ragtag,conservative
+6191,EN3570,n,cds,no,moralization,inclusive
+6192,EN6844,v,cds,no,gossip,inclusive
+6193,EN1393,n,qas,no,bungle,inclusive
+6194,EN5499,n,re,no,m o f i a,inclusive
+6199,EN6601,n,an,no,leech,inclusive
+6202,EN2642,n,an,no,madness,inclusive
+6203,EN1900,n,cds,no,dunder headed,inclusive
+6204,EN168,n,asm,no,idiocy,inclusive
+6205,EN1879,n,dmc,yes,ishmael,inclusive
+6208,EN753,a,svp,no,devouring,conservative
+6210,EN1784,a,dmc,yes,slimy,conservative
+6211,EN619,n,is,yes,miser,conservative
+6215,EN1082,n,cds,no,troublesome youth group,inclusive
+6218,EN3379,n,svp,no,trencher,inclusive
+6219,EN5475,n,cds,no,policeman,inclusive
+6220,EN605,n,is,yes,costiveness,conservative
+6223,EN1696,n,dmc,yes,crumb,inclusive
+6224,EN2756,n,cds,no,mammal hybrids,inclusive
+6226,EN3753,n,cds,no,pimpin,conservative
+6227,EN5028,n,qas,no,prevaricated,conservative
+6229,EN337,n,cds,no,folderol,conservative
+6236,EN2032,n,cds,no,camorra,inclusive
+6240,EN3738,n,cds,no,pandered,conservative
+6243,EN1907,n,cds,no,idiots,inclusive
+6245,EN5546,n,cds,no,mafioso,conservative
+6251,EN1918,n,ddp,yes,retard,inclusive
+6256,EN339,n,cds,no,trash,conservative
+6260,EN1903,n,ps,yes,galoot,conservative
+6261,EN734,n,rci,yes,boor,conservative
+6264,EN3038,n,cds,no,evildoer,conservative
+6267,EN317,n,qas,no,oddments,inclusive
+6269,EN6488,n,cds,no,homonculus,inclusive
+6270,EN4247,n,dmc,yes,ne'er-do-well,conservative
+6271,EN742,n,cds,no,ceorle,conservative
+6272,EN3844,n,om,no,foeniculi fructus,inclusive
+6273,EN1896,n,asf,no,idioticness,conservative
+6278,EN4058,n,re,no,gangsters,inclusive
+6282,EN7570,n,an,no,lampyris carreti,inclusive
+6284,EN6821,a,cds,no,exigent,conservative
+6285,EN313,n,cds,no,mingle-mangle,inclusive
+6286,EN1226,n,dmc,yes,bounder,conservative
+6293,EN3775,n,cds,no,terry toon,inclusive
+6295,EN1230,n,dmc,yes,heel,conservative
+6297,EN701,a,svp,no,covetous,inclusive
+6299,EN2597,n,cds,no,refuse,inclusive
+6302,EN5343,n,dmc,yes,slugabed,conservative
+6305,EN2477,n,om,no,gayest,conservative
+6306,EN682,n,asm,no,bollacks,inclusive
+6308,EN1474,n,an,no,cow,inclusive
+6310,EN1907,n,ddp,yes,idiots,inclusive
+6311,EN2044,n,dmc,yes,grifter,conservative
+6312,EN4729,n,asf,no,babe,conservative
+6313,EN2858,n,qas,no,culled,conservative
+6315,EN4305,n,an,no,hog,conservative
+6323,EN2478,n,om,no,gays,inclusive
+6325,EN4045,n,an,no,rage,inclusive
+6330,EN1924,n,ddp,yes,changelings,conservative
+6331,EN737,n,ps,yes,barbarically,conservative
+6334,EN2449,n,om,no,queers,conservative
+6340,EN5498,n,cds,no,m o f f i a,inclusive
+6344,EN3197,n,dmc,yes,dissembler,conservative
+6346,EN1465,n,an,no,empalo,inclusive
+6347,EN3460,n,re,no,delicts,inclusive
+6351,EN5037,n,qas,no,haystack answer,conservative
+6352,EN1293,n,ddp,yes,dickhead,conservative
+6353,EN2580,n,cds,no,household wastes,inclusive
+6354,EN612,n,svp,no,miserliness,inclusive
+6356,EN4614,n,cds,no,people,inclusive
+6358,EN3758,n,cds,no,pandering,inclusive
+6361,EN1896,n,ddp,yes,idioticness,inclusive
+6368,EN1262,n,an,no,rat,conservative
+6370,EN1452,n,pr,no,oxen,inclusive
+6377,EN1728,n,qas,no,rabble,conservative
+6378,EN1727,n,dmc,yes,layabout,conservative
+6382,EN4773,n,re,no,imp,inclusive
+6391,EN6919,a,cds,no,self-important,conservative
+6393,EN896,n,pr,no,whore,conservative
+6394,EN2864,n,cds,no,trickster,conservative
+6395,EN2751,n,cds,no,breeding,inclusive
+6397,EN1413,n,qas,no,blunderer,conservative
+6398,EN2745,n,ps,yes,hybridiser,inclusive
+6400,EN1932,n,an,no,sons of bitches,conservative
+6402,EN1920,n,ddp,yes,cooyon,conservative
+6404,EN5071,n,cds,no,moneylenders,inclusive
+6407,EN4612,n,cds,no,herd,inclusive
+6408,EN532,n,an,no,blockhead,conservative
+6411,EN955,n,cds,no,prevarication,inclusive
+6412,EN2468,n,om,no,gay,inclusive
+6414,EN6841,a,cds,no,academic,conservative
+6418,EN734,n,cds,no,boor,conservative
+6419,EN5514,n,cds,no,castellammarse war,inclusive
+6421,EN4408,n,pr,no,gende,conservative
+6423,EN748,n,pa,yes,tike,conservative
+6425,EN4774,n,re,no,scamp,inclusive
+6426,EN1724,n,svp,no,do-nothing,conservative
+6428,EN2817,n,asf,no,c bomb,conservative
+6429,EN2722,n,cds,no,cross-breeding,inclusive
+6430,EN6033,n,cds,no,runt,conservative
+6433,EN524,n,asf,no,simpleton,conservative
+6434,EN6674,v,re,no,hornswoggle,inclusive
+6439,EN5009,n,dmc,yes,prevaricator,inclusive
+6440,EN1136,n,ddp,yes,tattletale,conservative
+6442,EN1466,n,an,no,moo-cow,inclusive
+6443,EN1029,n,cds,no,tarradiddle,conservative
+6445,EN4772,n,dmc,yes,monkey,inclusive
+6451,EN2990,n,ps,yes,lubber,conservative
+6452,EN7897,n,re,no,ndrangheta,inclusive
+6456,EN5530,n,cds,no,m.a.f.i.a.,inclusive
+6460,EN1938,n,an,no,bitchiness,conservative
+6461,EN5530,n,re,no,m.a.f.i.a.,inclusive
+6462,EN4966,a,dmc,yes,immoral,conservative
+6463,EN2437,n,om,no,queen,conservative
+6464,EN530,n,asf,no,dunderhead,conservative
+6467,EN5934,n,asm,no,dim-witted,conservative
+6469,EN663,n,ps,yes,churl,conservative
+6470,EN1905,n,ddp,yes,idiocies,inclusive
+6479,EN3448,n,svp,no,rapaciousness,conservative
+6480,EN4772,n,cds,no,monkey,conservative
+6483,EN1726,n,svp,no,idler,conservative
+6488,EN1891,n,an,no,chicken,inclusive
+6490,EN611,n,an,no,parsimony,conservative
+6494,EN540,n,an,no,george ruggle,conservative
+6496,EN2198,n,asm,no,cock,inclusive
+6498,EN1894,n,ddp,yes,idoit,conservative
+6499,EN2448,n,om,no,beanqueen,conservative
+6500,EN734,n,pa,yes,boor,conservative
+6504,EN4044,n,svp,no,enraged,conservative
+6506,EN521,n,an,no,simple,conservative
+6507,EN1118,n,re,no,banditti,inclusive
+6511,EN1697,n,an,no,stinker,conservative
+6513,EN739,n,ddp,yes,barbarous,conservative
+6515,EN3014,n,re,no,criminators,inclusive
+6516,EN739,n,dmc,yes,barbarous,conservative
+6517,EN3778,n,cds,no,sex-traders,inclusive
+6518,EN1322,n,cds,no,motherfuckers,conservative
+6521,EN618,n,svp,no,tightwaddery,conservative
+6528,EN496,n,an,no,stupidity,conservative
+6529,EN1877,n,dmc,yes,paraya,inclusive
+6530,EN1459,n,pr,no,moo unit,inclusive
+6532,EN3911,n,cds,no,buffoons,inclusive
+6533,EN5483,n,cds,no,mafia,conservative
+6536,EN4684,n,cds,no,superciliously,conservative
+6540,EN1923,n,ddp,yes,idiotic,conservative
+6545,EN1889,n,an,no,craven,conservative
+6548,EN2455,n,or,no,faggot,conservative
+6550,EN5342,n,svp,no,slacker,conservative
+6551,EN940,n,an,no,rentboy,conservative
+6554,EN4438,n,pr,no,strumpets,conservative
+6555,EN2450,n,om,no,faggedy,conservative
+6557,EN2726,n,cds,no,plant biotechnology,inclusive
+6560,EN515,n,asf,no,muggins,conservative
+6562,EN4358,n,re,no,thieves,inclusive
+6566,EN4243,n,dmc,yes,goldbrick,conservative
+6567,EN614,n,is,yes,cheapskate,conservative
+6568,EN1908,n,asf,no,dunderheaded,conservative
+6569,EN742,n,dmc,yes,ceorle,conservative
+6573,EN1891,n,an,no,chicken,conservative
+6575,EN525,n,asf,no,dolt,conservative
+6576,EN2453,n,om,no,poof,conservative
+6577,EN2446,n,or,no,queer-identified,conservative
+6578,EN6632,v,qas,no,crucify,conservative
+6579,EN363,a,ddp,yes,analphabetic,inclusive
+6580,EN878,n,ddp,yes,booby,conservative
+6581,EN611,n,svp,no,parsimony,inclusive
+6584,EN1301,n,cds,no,mutterficker,conservative
+6587,EN2822,n,or,no,"see you, auntie",conservative
+6589,EN1303,n,ddp,yes,asshole,conservative
+6592,EN537,n,an,no,numskull,conservative
+6594,EN3382,n,svp,no,gourmandize,conservative
+6596,EN612,n,is,yes,miserliness,conservative
+6602,EN4245,n,dmc,yes,good-for-nothing,conservative
+6604,EN3772,n,cds,no,whoremonger,inclusive
+6607,EN931,n,pr,no,manwhore,conservative
+6610,EN1416,n,dmc,yes,botcher,conservative
+6611,EN2445,n,or,no,queerio,conservative
+6613,EN2585,n,cds,no,scrap,conservative
+6614,EN2780,n,ps,yes,hybridizer,inclusive
+6617,EN4925,n,cds,no,puffiness,conservative
+6620,EN4774,n,dmc,yes,scamp,inclusive
+6621,EN2602,n,qas,no,scrapping,inclusive
+6622,EN6032,n,cds,no,peewee,conservative
+6625,EN6509,n,dmc,yes,unfortunate,inclusive
+6632,EN6636,v,qas,no,torment,conservative
+6633,EN1911,n,asf,no,moronic,conservative
+6635,EN5482,n,re,no,maffia,inclusive
+6637,EN3053,n,cds,no,criminal-reform,inclusive
+6638,EN1906,n,ps,yes,eejit,conservative
+6639,EN1123,n,dmc,yes,outlawing,inclusive
+6642,EN864,n,ddp,yes,pillock,conservative
+6644,EN1709,n,an,no,stinkpot,conservative
+6649,EN1893,n,ddp,yes,imbecile,inclusive
+6651,EN5023,n,dmc,yes,lying through your teeth,inclusive
+6655,EN1700,n,an,no,vagrant,conservative
+6656,EN1124,n,cds,no,felon,conservative
+6659,EN6676,v,re,no,defraud,inclusive
+6663,EN515,n,cds,no,muggins,conservative
+6668,EN5260,n,re,no,livestock rustling,inclusive
+6670,EN1066,n,cds,no,bigotry,conservative
+6673,EN4393,n,pr,no,oldest profession,conservative
+6676,EN5037,n,dmc,yes,haystack answer,inclusive
+6677,EN1915,n,asm,no,th. metzger,inclusive
+6678,EN919,n,an,no,floozie,conservative
+6680,EN1063,n,dmc,yes,bigots,conservative
+6682,EN7472,a,svp,no,lascivious,conservative
+6684,EN524,n,asm,no,simpleton,conservative
+6688,EN190,n,svp,no,amour propre,conservative
+6693,EN1104,n,dmc,yes,rapscallion,inclusive
+6694,EN1728,n,qas,no,rabble,inclusive
+6697,EN729,n,qas,no,barbarian,conservative
+6704,EN2585,n,cds,no,scrap,inclusive
+6706,EN5074,n,cds,no,loanshark,conservative
+6708,EN5064,n,asm,no,scoffer,conservative
+6709,EN5036,n,cds,no,prevarications,inclusive
+6711,EN7989,n,cds,no,venal,inclusive
+6712,EN289,n,an,no,slug,inclusive
+6714,EN523,n,ddp,yes,putz,inclusive
+6715,EN4377,n,re,no,steal,inclusive
+6719,EN4410,n,pr,no,loitering with intent,conservative
+6720,EN3923,n,cds,no,wit-crackers,inclusive
+6723,EN5625,n,cds,no,yahoo,conservative
+6727,EN2577,n,qas,no,garbage,inclusive
+6731,EN4462,n,pr,no,whoor,inclusive
+6737,EN2773,n,cds,no,crosses,inclusive
+6738,EN1229,n,an,no,hound,conservative
+6739,EN1920,n,cds,no,cooyon,inclusive
+6742,EN2486,n,cds,no,gossipmonger,conservative
+6744,EN4405,n,pr,no,w word,inclusive
+6745,EN5469,n,cds,no,sbirro,conservative
+6747,EN4928,n,cds,no,inflation,conservative
+6749,EN333,n,cds,no,wish-wash,conservative
+6750,EN1075,n,an,no,mob,conservative
+6756,EN409,n,an,no,cryptofauna,inclusive
+6757,EN2594,n,cds,no,scrapped,inclusive
+6758,EN524,n,ps,yes,simpleton,conservative
+6760,EN5531,n,re,no,the m. a. f. f. i. a.,inclusive
+6761,EN744,n,cds,no,barbaric,conservative
+6764,EN334,n,cds,no,trumpery,conservative
+6766,EN704,a,svp,no,avaricious,conservative
+6767,EN5517,n,cds,no,mafiosi,inclusive
+6771,EN4365,n,re,no,larsony,inclusive
+6772,EN414,n,ddp,yes,metazoan evolution,inclusive
+6773,EN2476,n,or,no,homo,conservative
+6776,EN1927,n,asm,no,dunderheads,inclusive
+6780,EN4414,n,pr,no,commercial sex,conservative
+6787,EN418,n,an,no,fauna,inclusive
+6789,EN5624,n,dmc,yes,bumpkin,conservative
+6793,EN2050,n,cds,no,riffraff,inclusive
+6796,EN5939,n,ddp,yes,stupider,conservative
+6799,EN4458,n,pr,no,whored,conservative
+6801,EN5037,n,cds,no,haystack answer,inclusive
+6813,EN1872,n,is,yes,paraiyan,inclusive
+6814,EN1120,n,cds,no,outlawed,conservative
+6815,EN3045,n,cds,no,incriminators,inclusive
+6816,EN1104,n,an,no,rapscallion,conservative
+6817,EN754,n,an,no,barbarism,inclusive
+6818,EN5531,n,cds,no,the m. a. f. f. i. a.,inclusive
+6820,EN4339,a,cds,no,cunning,conservative
+6821,EN3048,n,cds,no,crimanal,inclusive
+6822,EN732,n,ps,yes,savage,inclusive
+6824,EN1323,n,cds,no,mother fucker,conservative
+6825,EN1135,n,cds,no,taleteller,conservative
+6827,EN5482,n,cds,no,maffia,inclusive
+6833,EN7988,n,cds,no,venality,inclusive
+6834,EN3010,n,cds,no,criminis,inclusive
+6836,EN666,n,asm,no,nut,inclusive
+6840,EN1915,n,cds,no,th. metzger,inclusive
+6841,EN5532,n,cds,no,mofia,inclusive
+6845,EN738,n,qas,no,goth,conservative
+6847,EN1902,n,asf,no,cretin,conservative
+6848,EN3891,n,cds,no,jam,inclusive
+6850,EN7398,a,qas,no,piteous,conservative
+6851,EN932,n,an,no,street girl,conservative
+6852,EN4769,a,is,yes,stingy,conservative
+6855,EN5077,n,cds,no,shy lock,conservative
+6856,EN4417,n,pr,no,tender parnel,conservative
+6858,EN699,n,qas,no,egg,inclusive
+6860,EN1290,n,ddp,yes,sob,conservative
+6862,EN4214,n,qas,no,snooper,inclusive
+6866,EN861,n,ddp,yes,mark,conservative
+6871,EN318,n,cds,no,melange,inclusive
+6873,EN1700,n,cds,no,vagrant,conservative
+6877,EN6901,a,svp,no,angry,inclusive
+6882,EN1896,n,asm,no,idioticness,inclusive
+6883,EN1119,n,cds,no,outlaw,inclusive
+6886,EN5476,n,cds,no,policemen,inclusive
+6892,EN5458,n,cds,no,law enforcement personnel,conservative
+6893,EN862,n,ddp,yes,mug,conservative
+6894,EN1921,n,cds,no,lout,inclusive
+6896,EN3072,n,re,no,incriminates,inclusive
+6900,EN2353,n,asm,no,fuck,conservative
+6902,EN3917,n,cds,no,jester,inclusive
+6903,EN7792,n,pr,no,biston,inclusive
+6911,EN408,n,ddp,yes,infauna,inclusive
+6912,EN3052,n,cds,no,offence,inclusive
+6919,EN5087,n,cds,no,shylock,inclusive
+6922,EN6034,n,ddf,yes,half-pint,conservative
+6925,EN614,n,svp,no,cheapskate,inclusive
+6926,EN1075,n,qas,no,mob,conservative
+6927,EN1753,n,re,no,villainous,conservative
+6930,EN6599,n,an,no,sponge,conservative
+6931,EN4768,a,dmc,yes,parsimonious,conservative
+6934,EN3037,n,re,no,crime,inclusive
+6937,EN3018,n,cds,no,criminates,inclusive
+6941,EN1434,n,ddp,yes,zooerastia,conservative
+6945,EN5519,n,re,no,m a f i a,inclusive
+6948,EN4464,n,pr,no,paid sex,inclusive
+6950,EN525,n,asm,no,dolt,inclusive
+6951,EN1041,n,cds,no,fibber,conservative
+6953,EN605,n,an,no,costiveness,conservative
+6954,EN7312,a,dmc,yes,imitation,inclusive
+6956,EN525,n,or,no,dolt,conservative
+6958,EN1918,n,asm,no,retard,inclusive
+6960,EN5751,n,cds,no,superbia,conservative
+6963,EN6916,a,svp,no,presumptuous,conservative
+6966,EN441,n,re,no,rape,conservative
+6967,EN752,a,svp,no,avid,inclusive
+6971,EN133,n,cds,no,amateurishness,conservative
+6973,EN1894,n,asm,no,idoit,inclusive
+6974,EN4768,a,svp,no,parsimonious,conservative
+6977,EN411,n,an,no,animalia 101,inclusive
+6980,EN5017,a,dmc,yes,work-shy,conservative
+6982,EN3905,a,dmc,yes,false,conservative
+6983,EN6517,n,cds,no,loan-sharking,conservative
+6994,EN301,n,cds,no,henchman,conservative
+6995,EN1747,n,is,yes,movie villains,conservative
+6996,EN5490,n,re,no,the m.a.f.f.i.a.,conservative
+6997,EN4058,n,cds,no,gangsters,inclusive
+6998,EN3740,n,cds,no,strumpeteer,conservative
+7002,EN2762,n,cds,no,genetic crossing,inclusive
+7004,EN2521,n,cds,no,cowardly,conservative
+7006,EN7582,n,pr,no,lampyris sibirica,inclusive
+7008,EN1747,n,re,no,movie villains,conservative
+7012,EN5493,n,re,no,moffias,inclusive
+7013,EN950,n,an,no,streetwalking,conservative
+7014,EN615,n,svp,no,penny pincher,conservative
+7020,EN3736,n,cds,no,fleshmongers,conservative
+7024,EN1391,n,asm,no,boner,inclusive
+7025,EN609,n,an,no,stinginess,conservative
+7028,EN6833,v,cds,no,scrawl,inclusive
+7030,EN945,n,pr,no,rent boy,conservative
+7031,EN4429,n,pr,no,sexual services,conservative
+7034,EN3692,a,is,yes,unhappy,inclusive
+7035,EN499,n,an,no,imbecility,conservative
+7040,EN5036,n,cds,no,prevarications,conservative
+7041,EN959,n,dmc,yes,falsity,inclusive
+7044,EN2827,n,or,no,c word,conservative
+7045,EN1706,n,qas,no,vagabond,conservative
+7049,EN879,n,ps,yes,dope,conservative
+7051,EN2687,n,asm,no,twerp,conservative
+7054,EN5023,n,cds,no,lying through your teeth,inclusive
+7061,EN877,n,ddp,yes,dummy,inclusive
+7062,EN2467,n,om,no,that's gay.,inclusive
+7067,EN744,n,dmc,yes,barbaric,conservative
+7068,EN4305,n,dmc,yes,hog,conservative
+7069,EN413,n,an,no,beast,conservative
+7071,EN2443,n,or,no,fagala,conservative
+7074,EN3920,n,cds,no,witcracker,inclusive
+7078,EN5617,n,dmc,yes,impolite,conservative
+7082,EN311,n,qas,no,farrago,inclusive
+7083,EN2769,n,cds,no,plant crossing,inclusive
+7087,EN1921,n,ddp,yes,lout,conservative
+7088,EN4143,a,dmc,yes,foul,conservative
+7095,EN2490,n,cds,no,rumormonger,conservative
+7104,EN1905,n,ps,yes,idiocies,conservative
+7109,EN5456,n,cds,no,police women,inclusive
+7110,EN1229,n,dmc,yes,hound,conservative
+7112,EN4378,n,re,no,stealers,inclusive
+7114,EN2686,n,ddp,yes,twirp,conservative
+7119,EN2050,n,cds,no,riffraff,conservative
+7124,EN539,n,ddp,yes,uneducated person,conservative
+7128,EN1414,n,cds,no,butcher,conservative
+7129,EN1746,n,dmc,yes,miscreants,conservative
+7130,EN5338,n,dmc,yes,slackers,conservative
+7133,EN7672,a,svp,no,proud,conservative
+7135,EN4339,a,cds,no,cunning,inclusive
+7138,EN6600,n,an,no,sponger,conservative
+7140,EN5531,n,cds,no,the m. a. f. f. i. a.,conservative
+7144,EN6671,v,asm,no,gyp,conservative
+7145,EN6601,n,an,no,leech,conservative
+7148,EN3008,n,cds,no,incriminations,inclusive
+7149,EN6490,n,cds,no,homunculi,inclusive
+7150,EN3912,n,dmc,yes,witcrackers,inclusive
+7153,EN729,n,ps,yes,barbarian,conservative
+7156,EN3069,n,cds,no,crimes,inclusive
+7159,EN3440,n,ddf,yes,midget,conservative
+7168,EN2544,n,cds,no,mountebank,conservative
+7169,EN4197,n,an,no,muff,inclusive
+7172,EN1122,n,re,no,outlawry,inclusive
+7174,EN3043,n,re,no,wrongdoer,inclusive
+7180,EN4395,n,pr,no,quean,conservative
+7184,EN1752,n,re,no,villians,conservative
+7185,EN6030,n,cds,no,thief,inclusive
+7187,EN1094,n,cds,no,ganxta,conservative
+7189,EN3841,n,om,no,fennel,inclusive
+7194,EN2910,n,cds,no,mystifier,conservative
+7198,EN1727,n,cds,no,layabout,conservative
+7200,EN1102,n,cds,no,ne'er-do-wells,conservative
+7203,EN1119,n,cds,no,outlaw,conservative
+7205,EN3075,n,re,no,criminately,inclusive
+7207,EN4380,n,cds,no,filches,inclusive
+7208,EN4990,n,dmc,yes,fake,conservative
+7212,EN857,n,ddp,yes,fall guy,conservative
+7213,EN1743,n,cds,no,villian,conservative
+7214,EN3679,a,cds,no,contemptible,conservative
+7226,EN5521,n,cds,no,mafiosa,conservative
+7228,EN3755,n,cds,no,pimps,inclusive
+7230,EN3843,n,or,no,foeniculum vulgare,inclusive
+7231,EN6804,n,cds,no,pedantic,conservative
+7233,EN1705,n,cds,no,bum,conservative
+7234,EN741,n,ddp,yes,barbarously,conservative
+7237,EN2475,n,om,no,league for civil education,conservative
+7240,EN5507,n,re,no,mafiosos,inclusive
+7241,EN524,n,ddp,yes,simpleton,inclusive
+7243,EN881,n,ddp,yes,boob,conservative
+7245,EN6643,v,cds,no,gormandize,inclusive
+7246,EN5943,n,asm,no,fatuity,conservative
+7247,EN879,n,asm,no,dope,conservative
+7249,EN7834,a,om,no,transvestic,inclusive
+7251,EN5078,n,cds,no,pound of flesh,conservative
+7258,EN1697,n,dmc,yes,stinker,conservative
+7260,EN2818,n,or,no,the t-word,conservative
+7263,EN1908,n,ddp,yes,dunderheaded,conservative
+7264,EN733,n,cds,no,barbarousness,conservative
+7267,EN526,n,ddp,yes,shithead,conservative
+7269,EN7476,a,svp,no,lewd,conservative
+7272,EN1124,n,re,no,felon,inclusive
+7273,EN5036,n,dmc,yes,prevarications,inclusive
+7276,EN7790,n,pr,no,a betularia,inclusive
+7278,EN3890,n,cds,no,mess,conservative
+7280,EN1123,n,cds,no,outlawing,conservative
+7281,EN730,n,dmc,yes,barberian,conservative
+7292,EN5041,n,cds,no,liars,conservative
+7293,EN5953,n,ddp,yes,stupidest,conservative
+7297,EN1405,n,ddp,yes,prince adam,conservative
+7300,EN505,n,ddp,yes,cuckoo,conservative
+7302,EN2993,n,asm,no,doofus,conservative
+7303,EN1100,n,an,no,varlet,conservative
+7305,EN3368,n,svp,no,gourmandising,conservative
+7307,EN168,n,ddp,yes,idiocy,conservative
+7309,EN2744,n,cds,no,hybrid,inclusive
+7310,EN4372,n,re,no,stoled,inclusive
+7315,EN5470,n,cds,no,police-woman,inclusive
+7319,EN1743,n,dmc,yes,villian,conservative
+7321,EN2545,n,cds,no,shysters,conservative
+7325,EN1474,n,pr,no,cow,inclusive
+7326,EN1475,n,an,no,bos taurus,inclusive
+7330,EN288,n,cds,no,sluggard,conservative
+7333,EN1914,n,asf,no,idiotism,conservative
+7334,EN3001,n,re,no,criminated,inclusive
+7337,EN424,n,ddp,yes,metazoon,inclusive
+7338,EN1105,n,an,no,rogue,conservative
+7341,EN615,n,svp,no,penny pincher,inclusive
+7347,EN4770,a,svp,no,ungenerous,conservative
+7350,EN5459,n,cds,no,policeofficer,conservative
+7353,EN1118,n,cds,no,banditti,conservative
+7354,EN5341,n,dmc,yes,slacking,conservative
+7358,EN611,n,svp,no,parsimony,conservative
+7360,EN2036,n,re,no,chiseller,inclusive
+7361,EN2514,n,ddp,yes,blabber,conservative
+7369,EN3380,n,svp,no,gourmandised,inclusive
+7370,EN1726,n,cds,no,idler,conservative
+7371,EN5455,n,cds,no,freezer duty,inclusive
+7372,EN416,n,an,no,epifauna,inclusive
+7375,EN737,n,qas,no,barbarically,conservative
+7379,EN2992,n,asm,no,dimwit,conservative
+7381,EN1930,n,pr,no,sonofabitch,conservative
+7384,EN533,n,or,no,fuckhead,conservative
+7386,EN7459,n,cds,no,mediocrity,conservative
+7388,EN2452,n,or,no,faggy,conservative
+7389,EN5514,n,cds,no,castellammarse war,conservative
+7391,EN5802,n,dmc,yes,robber,conservative
+7394,EN4682,n,cds,no,overweeningness,inclusive
+7397,EN4049,n,dmc,yes,dilly-dallier,conservative
+7398,EN434,n,re,no,slander,conservative
+7402,EN1917,n,ddp,yes,moronism,inclusive
+7405,EN5496,n,re,no,la costa nostra,conservative
+7406,EN1725,n,svp,no,loafer,conservative
+7407,EN5464,n,cds,no,police-man,conservative
+7408,EN3694,a,cds,no,rude,conservative
+7409,EN1744,n,dmc,yes,badguy,conservative
+7414,EN2747,n,cds,no,hybridisation event,inclusive
+7415,EN4448,n,pr,no,whores,conservative
+7423,EN5951,n,ddp,yes,ditzy,conservative
+7424,EN396,n,an,no,brute,conservative
+7427,EN1061,a,ddp,yes,infantile,conservative
+7428,EN5485,n,cds,no,maffias,inclusive
+7429,EN5072,n,cds,no,salary buying,conservative
+7430,EN1675,n,cds,no,haughtiness,conservative
+7434,EN1453,n,pr,no,b. taurus,inclusive
+7438,EN2625,n,cds,no,guile,conservative
+7440,EN1901,n,ps,yes,oaf,conservative
+7444,EN6677,v,asm,no,swindle,conservative
+7446,EN5513,n,cds,no,m a f f i a,conservative
+7448,EN6669,v,asm,no,short-change,conservative
+7449,EN1474,n,an,no,cow,conservative
+7450,EN620,n,is,yes,mean,conservative
+7451,EN432,n,re,no,defamation,conservative
+7455,EN3699,n,dmc,yes,libertine,conservative
+7457,EN2727,n,ps,yes,interspecies reproduction,inclusive
+7460,EN2467,n,om,no,that's gay.,conservative
+7465,EN1894,n,ps,yes,idoit,conservative
+7466,EN2436,n,or,no,faggoty,conservative
+7470,EN740,n,pa,yes,churls,conservative
+7477,EN4055,n,re,no,gangster,inclusive
+7479,EN5343,n,cds,no,slugabed,conservative
+7481,EN3913,n,cds,no,wit crackers,inclusive
+7483,EN755,n,an,no,savagery,inclusive
+7484,EN498,n,ddp,yes,foolishness,inclusive
+7487,EN3914,n,dmc,yes,fools,inclusive
+7491,EN2044,n,re,no,grifter,inclusive
+7495,EN4450,n,pr,no,whoremongers,inclusive
+7499,EN6513,n,cds,no,usurary,inclusive
+7500,EN509,n,ddp,yes,zany,conservative
+7501,EN3009,n,re,no,criminousness,inclusive
+7509,EN1695,n,an,no,git,conservative
+7512,EN538,n,or,no,muttonhead,conservative
+7517,EN1744,n,cds,no,badguy,conservative
+7524,EN4769,a,an,no,stingy,conservative
+7527,EN688,n,qas,no,nadgers,inclusive
+7529,EN2984,n,ps,yes,clod,conservative
+7533,EN844,n,an,no,vulture,conservative
+7535,EN5513,n,cds,no,m a f f i a,inclusive
+7537,EN1785,a,ddf,yes,despicable,conservative
+7541,EN2050,n,qas,no,riffraff,conservative
+7542,EN1415,n,ddp,yes,stumbler,conservative
+7545,EN5270,n,re,no,cattle-rustling,inclusive
+7549,EN5345,n,dmc,yes,slackingly,conservative
+7550,EN2479,n,om,no,homophile,conservative
+7553,EN5473,n,cds,no,freezer-duty,inclusive
+7554,EN504,n,ddp,yes,goof,conservative
+7555,EN2993,n,ddp,yes,doofus,conservative
+7558,EN2985,n,ddp,yes,lummox,conservative
+7559,EN735,n,ddp,yes,tyke,conservative
+7562,EN7156,a,ddf,yes,flea-ridden,inclusive
+7566,EN1883,n,or,no,pansy,conservative
+7568,EN5208,n,svp,no,wrathful,inclusive
+7571,EN498,n,asm,no,foolishness,conservative
+7580,EN3385,n,svp,no,gourmandism,conservative
+7583,EN3846,n,or,no,finocchio,inclusive
+7584,EN3441,n,an,no,dwarf,conservative
+7585,EN4453,n,pr,no,crackwhore,conservative
+7587,EN4618,n,cds,no,hoi polloi,inclusive
+7589,EN1705,n,an,no,bum,conservative
+7597,EN2548,n,cds,no,charlatane,conservative
+7599,EN743,n,pa,yes,barbarians,conservative
+7604,EN4425,n,pr,no,whoredom,conservative
+7605,EN1696,n,dmc,yes,crumb,conservative
+7607,EN513,n,cds,no,fool,inclusive
+7614,EN860,n,ps,yes,patsy,conservative
+7616,EN881,n,ps,yes,boob,conservative
+7620,EN2577,n,cds,no,garbage,conservative
+7621,EN7358,v,re,no,cabbage,inclusive
+7622,EN5478,n,cds,no,officer,inclusive
+7623,EN4923,n,cds,no,splashiness,conservative
+7624,EN1911,n,ddp,yes,moronic,inclusive
+7627,EN1058,a,cds,no,foolish,conservative
+7628,EN1882,n,cds,no,wimp,conservative
+7629,EN3693,a,cds,no,uncivil,conservative
+7630,EN3744,n,cds,no,ponce,conservative
+7632,EN1734,n,is,yes,villainess,conservative
+7636,EN514,n,cds,no,sap,conservative
+7638,EN1779,a,ddf,yes,worthless,conservative
+7639,EN942,n,pr,no,cockmonger,conservative
+7640,EN508,n,ddp,yes,fathead,conservative
+7642,EN5028,n,dmc,yes,prevaricated,inclusive
+7643,EN536,n,an,no,lunkhead,conservative
+7644,EN4845,n,pr,no,bunk,conservative
+7645,EN3055,n,re,no,breaking the law,inclusive
+7647,EN886,n,an,no,strumpet,conservative
+7648,EN7770,v,re,no,torture,inclusive
+7652,EN1124,n,cds,no,felon,inclusive
+7653,EN5014,a,dmc,yes,indolent,conservative
+7654,EN747,n,ps,yes,the karls,conservative
+7658,EN1698,n,dmc,yes,so-and-so,conservative
+7659,EN522,n,an,no,chump,conservative
+7660,EN859,n,an,no,gull,conservative
+7661,EN5344,n,cds,no,shirker,conservative
+7662,EN3467,a,qas,no,frantic,inclusive
+7663,EN3848,n,om,no,f. vulgare,inclusive
+7665,EN3197,n,cds,no,dissembler,inclusive
+7668,EN2602,n,cds,no,scrapping,conservative
+7669,EN1435,n,an,no,bestiality,conservative
+7670,EN5032,n,dmc,yes,fibster,inclusive
+7671,EN7099,a,ps,yes,chinese,inclusive
+7672,EN757,n,ddp,yes,barbarity,inclusive
+7674,EN1298,n,ddp,yes,bastard,conservative
+7677,EN2039,n,cds,no,frauder,conservative
+7678,EN428,n,an,no,metazoans,inclusive
+7680,EN1735,n,cds,no,villain,conservative
+7685,EN1087,n,cds,no,gangsterism,conservative
+7686,EN6034,n,cds,no,half-pint,conservative
+7695,EN5629,n,cds,no,hick,conservative
+7696,EN1673,n,svp,no,boastfulness,conservative
+7697,EN709,a,svp,no,acquisitive,conservative
+7699,EN1309,n,cds,no,mammafucker,conservative
+7704,EN1702,n,an,no,rotter,conservative
+7705,EN1909,n,asf,no,moron,conservative
+7709,EN5338,n,cds,no,slackers,conservative
+7710,EN5495,n,re,no,mofias,conservative
+7712,EN739,n,pa,yes,barbarous,conservative
+7713,EN1091,n,cds,no,pack,inclusive
+7714,EN667,n,qas,no,ballock,inclusive
+7715,EN5042,n,cds,no,behavioral signals of lying,conservative
+7718,EN3770,n,cds,no,fleshmonger,inclusive
+7721,EN676,n,asm,no,bollix,inclusive
+7722,EN4398,n,pr,no,kerbcrawling,conservative
+7723,EN2574,n,qas,no,properties of msw,inclusive
+7724,EN722,n,cds,no,bandit,conservative
+7725,EN2040,n,re,no,defrauder,inclusive
+7726,EN2739,n,ps,yes,cross-bred,inclusive
+7727,EN5627,n,cds,no,chawbacon,conservative
+7729,EN7396,a,is,yes,poor,inclusive
+7730,EN2765,n,ps,yes,inter-species mating,inclusive
+7731,EN3025,n,cds,no,lawbreaking,inclusive
+7733,EN1103,n,cds,no,scallywag,inclusive
+7735,EN4050,n,svp,no,lounger,conservative
+7736,EN1121,n,cds,no,crook,inclusive
+7740,EN610,n,is,yes,penuriousness,conservative
+7743,EN3694,a,dmc,yes,rude,conservative
+7745,EN1698,n,dmc,yes,so-and-so,inclusive
+7748,EN3739,n,cds,no,pander,conservative
+7749,EN871,n,cds,no,pudden-head,conservative
+7753,EN2594,n,cds,no,scrapped,conservative
+7754,EN4757,a,is,yes,narrow-minded,conservative
+7757,EN2439,n,or,no,pouf,conservative
+7759,EN495,n,asf,no,betise,conservative
+7760,EN1706,n,cds,no,vagabond,conservative
+7772,EN3677,n,dmc,yes,immorality,conservative
+7775,EN2195,n,asm,no,dick,conservative
+7777,EN1672,n,svp,no,vainglory,conservative
+7778,EN1295,n,cds,no,mf word,conservative
+7779,EN606,n,svp,no,closefistedness,inclusive
+7783,EN1318,n,ddp,yes,arse,conservative
+7784,EN1586,a,qas,no,bourgeois,inclusive
+7788,EN524,n,an,no,simpleton,conservative
+7789,EN2440,n,om,no,poove,conservative
+7790,EN2547,n,ddp,yes,charlitain,conservative
+7792,EN4361,n,cds,no,bilking,inclusive
+7795,EN7133,a,cds,no,craven,conservative
+7796,EN4377,n,cds,no,steal,inclusive
+7797,EN6667,v,re,no,diddle,inclusive
+7798,EN3429,n,ps,yes,drifter,inclusive
+7800,EN4394,n,pr,no,harlotry,inclusive
+7808,EN5507,n,cds,no,mafiosos,conservative
+7813,EN732,n,ps,yes,savage,conservative
+7815,EN3032,n,re,no,legal irresponsibility,inclusive
+7818,EN1905,n,asm,no,idiocies,inclusive
+7824,EN4043,n,svp,no,fury,conservative
+7825,EN7162,a,cds,no,demagogic,conservative
+7827,EN1743,n,re,no,villian,conservative
+7828,EN5028,n,cds,no,prevaricated,inclusive
+7832,EN525,n,cds,no,dolt,conservative
+7835,EN3365,n,svp,no,gormandise,inclusive
+7836,EN1308,n,ddp,yes,"the ""mf"" word",conservative
+7839,EN1141,n,cds,no,rascality,inclusive
+7843,EN609,n,is,yes,stinginess,conservative
+7844,EN5265,n,re,no,abaction,inclusive
+7846,EN2593,n,cds,no,municipal compost,inclusive
+7847,EN1105,n,dmc,yes,rogue,conservative
+7851,EN1312,n,cds,no,motherfucker,conservative
+7852,EN5530,n,cds,no,m.a.f.i.a.,conservative
+7853,EN6913,n,cds,no,jacking off,conservative
+7860,EN338,n,qas,no,rubbish,inclusive
+7861,EN674,n,qas,no,ovum,inclusive
+7862,EN4328,n,cds,no,hack,conservative
+7863,EN4770,a,is,yes,ungenerous,conservative
+7864,EN734,n,qas,no,boor,conservative
+7866,EN1695,n,dmc,yes,git,inclusive
+7867,EN2625,n,cds,no,guile,inclusive
+7870,EN702,a,svp,no,prehensile,conservative
+7871,EN7688,n,re,no,terrorising,inclusive
+7873,EN3392,n,svp,no,tranchier,conservative
+7876,EN1778,a,ddf,yes,bad,inclusive
+7877,EN1227,n,an,no,dog,inclusive
+7883,EN1740,n,is,yes,heavies,conservative
+7884,EN400,n,ddp,yes,animal,inclusive
+7885,EN439,n,re,no,violation,inclusive
+7888,EN7287,a,qas,no,dilettante,conservative
+7891,EN1117,n,re,no,malefactor,inclusive
+7894,EN1232,n,cds,no,sloven,conservative
+7899,EN6666,v,re,no,gip,inclusive
+7900,EN703,a,svp,no,greedy,inclusive
+7903,EN522,n,ps,yes,chump,conservative
+7905,EN7572,n,pr,no,lampyris longipennis,inclusive
+7908,EN496,n,asf,no,stupidity,conservative
+7909,EN2690,n,ddf,yes,crippled,inclusive
+7910,EN4426,n,pr,no,crack ho,conservative
+7912,EN7583,n,an,no,lampyris minor,inclusive
+7913,EN616,n,an,no,niggard,conservative
+7914,EN4367,n,cds,no,filchers,inclusive
+7917,EN858,n,an,no,sucker,conservative
+7918,EN743,n,cds,no,barbarians,conservative
+7921,EN5501,n,cds,no,mafias,inclusive
+7922,EN5750,n,svp,no,pride,conservative
+7923,EN5669,n,an,no,parrot,conservative
+7925,EN1921,n,asm,no,lout,inclusive
+7937,EN1102,n,dmc,yes,ne'er-do-wells,conservative
+7938,EN7896,n,re,no,ntrangata,inclusive
+7940,EN698,n,asm,no,testicular,inclusive
+7941,EN1307,n,ddp,yes,prick,conservative
+7942,EN4413,n,pr,no,ten o'clock girl,inclusive
+7945,EN6911,n,asm,no,wank,conservative
+7947,EN4653,n,svp,no,overeat,inclusive
+7948,EN696,n,qas,no,bollocks.,inclusive
+7949,EN2033,n,re,no,comorra,inclusive
+7951,EN4688,n,cds,no,hubrus,inclusive
+7952,EN1701,n,dmc,yes,puke,conservative
+7953,EN2877,n,asf,no,dame,conservative
+7959,EN6515,n,cds,no,usura,inclusive
+7960,EN729,n,dmc,yes,barbarian,conservative
+7966,EN4441,n,pr,no,hooking,conservative
+7967,EN1133,n,cds,no,blabbermouth,conservative
+7969,EN1407,n,ddp,yes,wolf,conservative
+7972,EN1876,n,is,yes,pariahs,inclusive
+7974,EN5623,n,cds,no,rube,conservative
+7976,EN2468,n,or,no,gay,conservative
+7979,EN685,n,qas,no,testes,inclusive
+7982,EN1415,n,qas,no,stumbler,conservative
+7984,EN5076,n,cds,no,moneylending,conservative
+7987,EN869,n,cds,no,stupe,conservative
+7989,EN5041,n,dmc,yes,liars,inclusive
+7990,EN542,n,an,no,ignoramus,conservative
+7992,EN1402,n,dmc,yes,pharisee,inclusive
+7993,EN2993,n,ps,yes,doofus,conservative
+7997,EN2828,n,or,no,cunny,conservative
+8000,EN663,n,dmc,yes,churl,conservative
+8008,EN7471,a,ps,yes,judaic,inclusive
+8009,EN5952,n,ddp,yes,stupidly,conservative
+8011,EN1925,n,cds,no,coo-yon,inclusive
+8013,EN3375,n,svp,no,trencherman,inclusive
+8015,EN707,a,svp,no,grabby,conservative
+8016,EN4364,n,re,no,thieving,inclusive
+8018,EN2642,n,ddp,yes,madness,conservative
+8020,EN1120,n,dmc,yes,outlawed,inclusive
+8023,EN1696,n,cds,no,crumb,conservative
+8026,EN2040,n,cds,no,defrauder,conservative
+8030,EN1734,n,re,no,villainess,conservative
+8031,EN4054,n,dmc,yes,sleiveen,conservative
+8033,EN6921,a,svp,no,arrogant,conservative
+8034,EN2775,n,ps,yes,plant breeder,inclusive
+8035,EN3019,n,re,no,law-breaking,inclusive
+8036,EN5013,a,dmc,yes,slothful,conservative
+8039,EN6540,n,cds,no,whopper,conservative
+8041,EN528,n,asf,no,hammerhead,conservative
+8046,EN5484,n,cds,no,cosa nostra,conservative
+8049,EN1043,n,dmc,yes,storyteller,conservative
+8050,EN2546,n,cds,no,charlatanism,conservative
+8052,EN735,n,pa,yes,tyke,conservative
+8054,EN1705,n,dmc,yes,bum,inclusive
+8056,EN7573,n,an,no,glowworm,inclusive
+8057,EN5514,n,re,no,castellammarse war,inclusive
+8058,EN745,n,cds,no,peasant,conservative
+8061,EN5488,n,cds,no,m. o. f. i. a.,conservative
+8062,EN4953,n,svp,no,intolerance,conservative
+8064,EN1119,n,dmc,yes,outlaw,inclusive
+8073,EN4443,n,pr,no,meretriciously,inclusive
+8074,EN6597,v,qas,no,bungle,conservative
+8081,EN536,n,asf,no,lunkhead,conservative
+8084,EN339,n,qas,no,trash,conservative
+8085,EN4047,n,svp,no,dallier,conservative
+8087,EN4766,a,is,yes,narrow,conservative
+8089,EN3021,n,cds,no,offense,inclusive
+8090,EN2438,n,or,no,queer,conservative
+8094,EN7685,n,re,no,terrorists,conservative
+8095,EN1933,n,or,no,cunt,conservative
+8103,EN5022,n,dmc,yes,prevaricating,inclusive
+8105,EN2042,n,cds,no,scammer,inclusive
+8108,EN1296,n,cds,no,cocksucker,conservative
+8109,EN6033,n,dmc,yes,runt,conservative
+8111,EN744,n,pa,yes,barbaric,conservative
+8113,EN2737,n,cds,no,cross-breed,inclusive
+8116,EN608,n,is,yes,meanness,conservative
+8118,EN3387,n,svp,no,gormand,conservative
+8120,EN4924,n,cds,no,pompousness,conservative
+8121,EN5025,n,dmc,yes,porky pie,inclusive
+8123,EN4060,n,dmc,yes,mobster,inclusive
+8127,EN746,n,ddp,yes,birin,conservative
+8133,EN4419,n,pr,no,prostitutes,conservative
+8134,EN1291,n,ddp,yes,bunghole,conservative
+8135,EN288,n,an,no,sluggard,conservative
+8136,EN937,n,pr,no,gigalo,conservative
+8137,EN6032,n,dmc,yes,peewee,conservative
+8138,EN2682,n,asm,no,tosser,conservative
+8140,EN1523,n,asm,no,brown,inclusive
+8142,EN1705,n,dmc,yes,bum,conservative
+8148,EN2590,n,cds,no,waste,conservative
+8149,EN2681,n,asm,no,wanker,conservative
+8150,EN504,n,an,no,goof,conservative
+8151,EN1904,n,ddp,yes,dunder heads,inclusive
+8154,EN2735,n,cds,no,inter-breeding,inclusive
+8155,EN2816,n,asf,no,twats,conservative
+8158,EN1744,n,an,no,badguy,conservative
+8159,EN881,n,asm,no,boob,conservative
+8161,EN538,n,an,no,muttonhead,conservative
+8163,EN7146,a,ddp,yes,puerile,conservative
+8164,EN1316,n,ddp,yes,motherfather,conservative
+8169,EN333,n,asf,no,wish-wash,conservative
+8182,EN4927,n,cds,no,pretentiousness,inclusive
+8186,EN4909,n,ddp,yes,incompetent,conservative
+8188,EN6664,v,re,no,scam,inclusive
+8189,EN5271,n,cds,no,rustler,inclusive
+8190,EN6914,n,cds,no,hand job,conservative
+8193,EN513,n,dmc,yes,fool,inclusive
+8194,EN7474,a,svp,no,lustful,conservative
+8196,EN683,n,asm,no,ballix,inclusive
+8199,EN1867,n,is,yes,parayar,inclusive
+8201,EN427,n,an,no,anumal,inclusive
+8202,EN5937,n,ddp,yes,fatuous,conservative
+8203,EN2759,n,ps,yes,interfertile,inclusive
+8205,EN3038,n,cds,no,evildoer,inclusive
+8213,EN543,n,om,no,ass,inclusive
+8215,EN860,n,cds,no,patsy,conservative
+8216,EN2043,n,re,no,fraudster,inclusive
+8221,EN333,n,an,no,wish-wash,conservative
+8224,EN1319,n,cds,no,mother fucka,conservative
+8225,EN2597,n,cds,no,refuse,conservative
+8226,EN521,n,asm,no,simple,inclusive
