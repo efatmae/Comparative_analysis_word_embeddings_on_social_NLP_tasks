@@ -1,16 +1,16 @@
 Project Description:
 =====================
-This project is the implementation of the social NLP paper @Naccl 2022 "A Comparative Study on Word Embeddings and Social NLP Tasks".
+This project is the implementation of the social NLP paper @Naacl 2022 "A Comparative Study on Word Embeddings and Social NLP Tasks".
 
 How to use:
 ==============
-To use reproduce this platform, you have to follow these steps:
+To use our code and reproduce our results, you have to follow these steps:
 
 1- Download the data
 =======================
 The Data used in this project are:
 
-1- Twitter-sexism and Twitter-racism datasets from "Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitte "
+1- Twitter-sexism and Twitter-racism datasets from "Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter"
 
 2- Jigsaw-toxicity Dataset https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
@@ -51,8 +51,7 @@ Disclaimer
 ==========
 While every care has been taken to ensure the accuracy of the data and code provided in this repository, the authors, the University of the West of Scotland, and Oakland University do not provide any guaranties and disclaim all responsibility and all liability (including without limitation, liability in negligence) for all expenses, losses, damages (including indirect or consequential damage) and costs which you might incur as a result of the provided data being inaccurate or incomplete in any way and for any reason. 2021, University of the West of Scotland, Scotland, United Kingdom.
 
-
-Also, put the following reference in the beginning of the readme:
+Cite
 =================================================================
 @inproceedings{elsafoury-2022-comparative_analysis,
     title = "A Comparative Study on Word Embeddings and Social NLP Tasks",
