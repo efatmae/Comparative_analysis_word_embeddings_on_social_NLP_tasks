@@ -52,11 +52,19 @@ Disclaimer
 While every care has been taken to ensure the accuracy of the data and code provided in this repository, the authors, the University of the West of Scotland, and Oakland University do not provide any guaranties and disclaim all responsibility and all liability (including without limitation, liability in negligence) for all expenses, losses, damages (including indirect or consequential damage) and costs which you might incur as a result of the provided data being inaccurate or incomplete in any way and for any reason. 2021, University of the West of Scotland, Scotland, United Kingdom.
 
 Cite
-=================================================================
-@inproceedings{elsafoury-2022-comparative_analysis,
-    title = "A Comparative Study on Word Embeddings and Social NLP Tasks",
-    author = "Fatma Elsafoury, Steven R. Wilson, Naeem Ramzan",
-    booktitle = "Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: The Social NLP workshop",
-    month = July,
+====
+@inproceedings{elsafoury-etal-2022-comparative,
+    title = "A Comparative Study on Word Embeddings and Social {NLP} Tasks",
+    author = "Elsafoury, Fatma  and
+      Wilson, Steven R.  and
+      Ramzan, Naeem",
+    booktitle = "Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media",
+    month = jul,
     year = "2022",
-    address = "Seattle, US"}
+    address = "Seattle, Washington",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.socialnlp-1.5",
+    doi = "10.18653/v1/2022.socialnlp-1.5",
+    pages = "55--64",
+    abstract = "In recent years, gray social media platforms, those with a loose moderation policy on cyberbullying, have been attracting more users. Recently, data collected from these types of platforms have been used to pre-train word embeddings (social-media-based), yet these word embeddings have not been investigated for social NLP related tasks. In this paper, we carried out a comparative study between social-media-based and non-social-media-based word embeddings on two social NLP tasks: Detecting cyberbullying and Measuring social bias. Our results show that using social-media-based word embeddings as input features, rather than non-social-media-based embeddings, leads to better cyberbullying detection performance. We also show that some word embeddings are more useful than others for categorizing offensive words. However, we do not find strong evidence that certain word embeddings will necessarily work best when identifying certain categories of cyberbullying within our datasets. Finally, We show even though most of the state-of-the-art bias metrics ranked social-media-based word embeddings as the most socially biased, these results remain inconclusive and further research is required.",
+}
